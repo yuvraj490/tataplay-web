@@ -1,0 +1,165 @@
+<!-- Created & Packed by @yuvraj824, Join @m3u_lovers on Telegram -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TataPlay Live</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+  <style>
+    body {
+      font-family: 'Poppins', sans-serif;
+      background-color: #F8F8F8;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+
+    .header {
+      background-color: #FFF;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      padding: 5px 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      animation: fadeInDown 0.5s ease-in-out;
+      overflow: hidden;
+    }
+
+    .header .logo {
+      font-size: 20px;
+      font-weight: 900;
+      padding: 8px;
+      color: #333;
+      text-decoration: none;
+      white-space: nowrap;
+      animation: slideInLeft 0.5s ease-in-out;
+      text-shadow: 0 0 10px rgba(255, 255, 255, 0.6);
+    }
+
+    .player-container {
+      max-width: 800px;
+      margin: 20px auto;
+      text-align: center;
+      padding: 20px;
+      background-color: #FFF;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      border-radius: 10px;
+      animation: fadeIn 0.5s ease-in-out;
+      position: relative;
+    }
+
+    .footer {
+      background-color: #333;
+      padding: 5px;
+      text-align: center;
+      font-size: 14px;
+      color: #FFF;
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      animation: fadeInUp 0.5s ease-in-out;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+
+    @keyframes fadeInDown {
+      from { opacity: 0; transform: translateY(-20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    @keyframes fadeInUp {
+      from { opacity: 0; transform: translateY(20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    @keyframes slideInLeft {
+      from { transform: translateX(-100%); }
+      to { transform: translateX(0); }
+    }
+
+  </style>
+</head>
+<body>
+  <div class="header">
+    <a href="https://t.me/m3u_lovers" class="logo">
+      TATAPLAY LIVE
+      </a>
+  </div>
+  <div class="player-container">
+    <div id="player"></div>
+  </div>
+    <div class="footer">
+       © 2024 TATAPLAY LIVE.
+    </div>
+  <script>
+        // JW Player configuration
+    const urlParams = new URLSearchParams(window.location.search);
+    const channelId = urlParams.get('channel');
+    const streamUrl = `manifest.php?id=${channelId}`;
+    const licenseUrl = `lic.php?id=${channelId}`;
+
+    fetchLicenseData(licenseUrl)
+      .then(licenseData => {
+        if (typeof licenseData === 'string' && licenseData === 'error') {
+          showNotice('There is an error.(error 1)');
+        } else {
+          const player = jwplayer('player');
+          player.setup({
+            file: streamUrl,
+            type: 'dash',
+            width: '100%',
+            aspectratio: '16:9',
+            autostart: true,
+            mute: false,
+            primary: 'html5',
+            drm: {
+              clearkey: {
+                keyId: licenseData.lic_keyId,
+                key: licenseData.lic_key
+              }
+            }
+          });
+        }
+      })
+      .catch(error => {
+        console.error('Error fetching license data:', error);
+        showNotice('There is an error. (error 2)');
+      });
+
+    function fetchLicenseData(url) {
+      return fetch(url)
+        .then(response => response.json())
+        .catch(error => {
+          console.error('Error fetching license data:', error);
+          throw error;
+        });
+    }
+
+    function showNotice(message) {
+      const playerContainer = document.querySelector('.player-container');
+      const noticeDiv = document.createElement('div');
+      noticeDiv.classList.add('notice');
+      noticeDiv.textContent = message;
+      playerContainer.appendChild(noticeDiv);
+    }
+    
+     window.addEventListener('error', event => {
+      const playerContainer = document.querySelector('.player-container');
+      const noticeDiv = playerContainer.querySelector('.notice');
+      if (noticeDiv) {
+        noticeDiv.textContent = `Error: ${event.error.message}`;
+      }
+    });
+  </script>
+ <!-- JW Player CDN -->
+  <script src="https://content.jwplatform.com/libraries/SAHhwvZq.js"></script>
+</body>
+</html>

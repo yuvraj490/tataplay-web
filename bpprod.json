@@ -1,0 +1,4140 @@
+{
+    "data": {
+      "channels": [
+        {
+          "id": "1363",
+          "name": "TataPlay Anime Local",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2115/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀj824 (tᴇlᴇɢram)"
+        },
+        {
+          "id": "840",
+          "name": "Shirdi Sai Baba",
+          "manifest_url": "https://bpprod45catchup.akamaized.net/out/i/554.mpd",
+          "packed_by": "@y🇺🇻rᴀj824 (ᴛᴇlegram)"
+        },
+        {
+          "id": "842",
+          "name": "Somnath Temple",
+          "manifest_url": "https://bpprod45catchup.akamaized.net/out/i/722.mpd",
+          "packed_by": "@yu🇻rᴀj824 (ᴛᴇlᴇgram)"
+        },
+        {
+          "id": "121",
+          "name": "Tata Play Fitness",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_209/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀj824 (ᴛᴇleɢram)"
+        },
+        {
+          "id": "618",
+          "name": "Tata Play Beauty",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_853/output/manifest.mpd",
+          "packed_by": "@yu🇻raᴊ824 (tᴇlᴇɢram)"
+        },
+        {
+          "id": "641",
+          "name": "Tata Play Cooking",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_876/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀj824 (tᴇlegram)"
+        },
+        {
+          "id": "959",
+          "name": "Tata Play Romance",
+          "manifest_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1785/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (tᴇlegrᴀm)"
+        },
+        {
+          "id": "8",
+          "name": "STAR Plus HD",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_257/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (telegram)"
+        },
+        {
+          "id": "244",
+          "name": "Star Bharat HD",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_411/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀᴊ824 (ᴛᴇlᴇgram)"
+        },
+        {
+          "id": "15",
+          "name": "SET HD",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_300/output/manifest.mpd",
+          "packed_by": "@y🇺vraᴊ824 (telᴇɢrᴀm)"
+        },
+        {
+          "id": "556",
+          "name": "SET",
+          "manifest_url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_125/output/manifest.mpd",
+          "packed_by": "@yu🇻raᴊ824 (tᴇlᴇgrᴀm)"
+        },
+        {
+          "id": "48",
+          "name": "SONY SAB HD",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_307/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (ᴛᴇlegrᴀm)"
+        },
+        {
+          "id": "559",
+          "name": "SONY SAB",
+          "manifest_url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_126/output/manifest.mpd",
+          "packed_by": "@yu🇻raᴊ824 (teleɢrᴀm)"
+        },
+        {
+          "id": "40",
+          "name": "&tv HD",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_303/output/manifest.mpd",
+          "packed_by": "@yuvraᴊ824 (ᴛeleɢram)"
+        },
+        {
+          "id": "578",
+          "name": "&TV",
+          "manifest_url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_196/output/manifest.mpd",
+          "packed_by": "@y🇺vraj824 (ᴛelegram)"
+        },
+        {
+          "id": "63",
+          "name": "Zee TV HD",
+          "manifest_url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_258/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (ᴛᴇlegrᴀm)"
+        },
+        {
+          "id": "557",
+          "name": "Zee TV",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_182/output/manifest.mpd",
+          "packed_by": "@yuvraᴊ824 (ᴛᴇlegrᴀm)"
+        },
+        {
+          "id": "811",
+          "name": "Tata Play Adbhut Kahaniyan",
+          "manifest_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1108/output/manifest.mpd",
+          "packed_by": "@yu🇻raj824 (telᴇgram)"
+        },
+        {
+          "id": "52",
+          "name": "Colors HD",
+          "manifest_url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_299/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (ᴛᴇlᴇɢrᴀm)"
+        },
+        {
+          "id": "543",
+          "name": "Colors",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_101/output/manifest.mpd",
+          "packed_by": "@yu🇻raj824 (teleɢrᴀm)"
+        },
+        {
+          "id": "95",
+          "name": "Tata Play Javed Akhtar",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_192/output/manifest.mpd",
+          "packed_by": "@y🇺vraᴊ824 (teleɢram)"
+        },
+        {
+          "id": "943",
+          "name": "Tata Play Videshi Kahaniyan",
+          "manifest_url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1774/output/manifest.mpd",
+          "packed_by": "@yuvrᴀᴊ824 (telᴇgram)"
+        },
+        {
+          "id": "964",
+          "name": "Tata Play Classic TV",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1790/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (ᴛᴇlᴇgrᴀm)"
+        },
+        {
+          "id": "142",
+          "name": "UTV Bindass",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_103/output/manifest.mpd",
+          "packed_by": "@yuvrᴀj824 (ᴛᴇlᴇgram)"
+        },
+        {
+          "id": "986",
+          "name": "Tata Play Zindagi",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1813/output/manifest.mpd",
+          "packed_by": "@yuvraᴊ824 (ᴛelᴇɢrᴀm)"
+        },
+        {
+          "id": "1276",
+          "name": "Investigation Discovery HD",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2056/output/manifest.mpd",
+          "packed_by": "@yuvraᴊ824 (ᴛelᴇgram)"
+        },
+        {
+          "id": "633",
+          "name": "Investigation Discovery",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_867/output/manifest.mpd",
+          "packed_by": "@y🇺vraᴊ824 (ᴛᴇlᴇgram)"
+        },
+        {
+          "id": "551",
+          "name": "STAR Utsav",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_122/output/manifest.mpd",
+          "packed_by": "@y🇺vraj824 (telᴇɢram)"
+        },
+        {
+          "id": "523",
+          "name": "Zee Anmol",
+          "manifest_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_826/output/manifest.mpd",
+          "packed_by": "@yuvrᴀj824 (tᴇlegrᴀm)"
+        },
+        {
+          "id": "438",
+          "name": "Colors Rishtey",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_694/output/manifest.mpd",
+          "packed_by": "@yu🇻raj824 (ᴛelᴇgrᴀm)"
+        },
+        {
+          "id": "554",
+          "name": "Sony Pal",
+          "manifest_url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_193/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀj824 (telᴇgram)"
+        },
+        {
+          "id": "54",
+          "name": "The Q",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_274/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raᴊ824 (ᴛelegrᴀm)"
+        },
+        {
+          "id": "297",
+          "name": "Big Magic",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_476/output/manifest.mpd",
+          "packed_by": "@yu🇻raj824 (ᴛᴇlegram)"
+        },
+        {
+          "id": "51",
+          "name": "Dangal",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_351/output/manifest.mpd",
+          "packed_by": "@yuvrᴀᴊ824 (ᴛᴇlᴇgrᴀm)"
+        },
+        {
+          "id": "180",
+          "name": "Anjan TV",
+          "manifest_url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_370/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raᴊ824 (tᴇlᴇɢram)"
+        },
+        {
+          "id": "818",
+          "name": "Shemaroo TV",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1114/output/manifest.mpd",
+          "packed_by": "@yuvrᴀj824 (ᴛᴇlegram)"
+        },
+        {
+          "id": "888",
+          "name": "Ishara",
+          "manifest_url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1300/output/manifest.mpd",
+          "packed_by": "@y🇺vraᴊ824 (ᴛelᴇɢram)"
+        },
+        {
+          "id": "874",
+          "name": "Deployment channel 19.0",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/delta14/out/i/7976503.mpd",
+          "packed_by": "@y🇺vrᴀᴊ824 (tᴇlᴇgram)"
+        },
+        {
+          "id": "1045",
+          "name": "Shemaroo UMANG",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1865/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀᴊ824 (ᴛelegram)"
+        },
+        {
+          "id": "965",
+          "name": "Manoranjan Grand",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1793/output/manifest.mpd",
+          "packed_by": "@yu🇻raᴊ824 (tᴇlegram)"
+        },
+        {
+          "id": "1269",
+          "name": "Chumbak TV",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2052/output/manifest.mpd",
+          "packed_by": "@yuvrᴀᴊ824 (ᴛᴇlᴇgram)"
+        },
+        {
+          "id": "191",
+          "name": "DD National",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_140/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (telegrᴀm)"
+        },
+        {
+          "id": "326",
+          "name": "DD Kisan",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_510/output/manifest.mpd",
+          "packed_by": "@y🇺vraᴊ824 (tᴇleɢrᴀm)"
+        },
+        {
+          "id": "808",
+          "name": "Tata Play Hits",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_998/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (ᴛᴇlᴇgram)"
+        },
+        {
+          "id": "187",
+          "name": "Colors Infinity HD",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_304/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀj824 (tᴇlᴇɢrᴀm)"
+        },
+        {
+          "id": "307",
+          "name": "Comedy Central HD",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_494/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (ᴛᴇleɢrᴀm)"
+        },
+        {
+          "id": "306",
+          "name": "Comedy Central",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_493/output/manifest.mpd",
+          "packed_by": "@yuvraᴊ824 (tᴇlᴇɢram)"
+        },
+        {
+          "id": "1101",
+          "name": "Woman",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1914/output/manifest.mpd",
+          "packed_by": "@yuvrᴀᴊ824 (tᴇlᴇgram)"
+        },
+        {
+          "id": "544",
+          "name": "Colors Infinity",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_202/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀᴊ824 (teleɢrᴀm)"
+        },
+        {
+          "id": "486",
+          "name": "Tata Play Bollywood Premiere",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_792/output/manifest.mpd",
+          "packed_by": "@y🇺vraᴊ824 (ᴛᴇleɢram)"
+        },
+        {
+          "id": "789",
+          "name": "Tata Play Hollywood Local",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_980/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀj824 (ᴛeleɢrᴀm)"
+        },
+        {
+          "id": "245",
+          "name": "STAR GOLD HD",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_412/output/manifest.mpd",
+          "packed_by": "@yuvraj824 (tᴇlᴇgram)"
+        },
+        {
+          "id": "632",
+          "name": "Star GOLD HD",
+          "manifest_url": "https://bpprod10catchup.akamaized.net/out/i/5771658.mpd",
+          "packed_by": "@yu🇻rᴀᴊ824 (telᴇɢrᴀm)"
+        },
+        {
+          "id": "1130",
+          "name": "Tata Play Bollywood Masala",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1924/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (tᴇleɢrᴀm)"
+        },
+        {
+          "id": "80",
+          "name": "SONY MAX HD",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_305/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (teleɢram)"
+        },
+        {
+          "id": "1258",
+          "name": "Tata Play Classic Cinema 2",
+          "manifest_url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2045/output/manifest.mpd",
+          "packed_by": "@yuvraᴊ824 (telᴇgrᴀm)"
+        },
+        {
+          "id": "741",
+          "name": "Tata Play Classic Cinema",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1630/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raj824 (telegrᴀm)"
+        },
+        {
+          "id": "503",
+          "name": "Zee Cinema HD",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_827/output/manifest.mpd",
+          "packed_by": "@yuvraᴊ824 (ᴛelegrᴀm)"
+        },
+        {
+          "id": "123",
+          "name": "Zee Cinema",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_185/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀj824 (ᴛelᴇɢrᴀm)"
+        },
+        {
+          "id": "175",
+          "name": "Zee Bollywood",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_204/output/manifest.mpd",
+          "packed_by": "@yuvraj824 (ᴛelᴇgram)"
+        },
+        {
+          "id": "727",
+          "name": "Zee Classic",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_955/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀj824 (tᴇlᴇgram)"
+        },
+        {
+          "id": "666",
+          "name": "Tata Play Theatre HD",
+          "manifest_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_899/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (teleɢrᴀm)"
+        },
+        {
+          "id": "267",
+          "name": "&pictures HD",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_454/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (ᴛelegrᴀm)"
+        },
+        {
+          "id": "148",
+          "name": "&pictures",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_203/output/manifest.mpd",
+          "packed_by": "@yuvraᴊ824 (ᴛᴇlᴇgrᴀm)"
+        },
+        {
+          "id": "1183",
+          "name": "&Xplor HD",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1963/output/manifest.mpd",
+          "packed_by": "@yuvrᴀj824 (ᴛᴇlᴇɢram)"
+        },
+        {
+          "id": "677",
+          "name": "Tata Play ShortsTV",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_902/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀj824 (ᴛᴇlᴇɢram)"
+        },
+        {
+          "id": "61",
+          "name": "Colors Cineplex HD",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_385/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀj824 (tᴇleɢrᴀm)"
+        },
+        {
+          "id": "53",
+          "name": "Colors Cineplex",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_384/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀj824 (tᴇleɢram)"
+        },
+        {
+          "id": "730",
+          "name": "B4U Kadak",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_957/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀᴊ824 (ᴛeleɢram)"
+        },
+        {
+          "id": "1003",
+          "name": "Tata Play South Talkies",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1829/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (ᴛelᴇɢram)"
+        },
+        {
+          "id": "56",
+          "name": "Sony Wah",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_386/output/manifest.mpd",
+          "packed_by": "@yuvraj824 (telᴇɢrᴀm)"
+        },
+        {
+          "id": "7",
+          "name": "B4U Movies",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_276/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀj824 (ᴛelᴇɢram)"
+        },
+        {
+          "id": "120",
+          "name": "SONY MAX 2",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_199/output/manifest.mpd",
+          "packed_by": "@y🇺vraj824 (ᴛᴇleɢram)"
+        },
+        {
+          "id": "182",
+          "name": "Cinema TV India",
+          "manifest_url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_357/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀj824 (teleɢram)"
+        },
+        {
+          "id": "276",
+          "name": "WoW Cinema One",
+          "manifest_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_824/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raj824 (tᴇlᴇgrᴀm)"
+        },
+        {
+          "id": "194",
+          "name": "Dangal 2",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_358/output/manifest.mpd",
+          "packed_by": "@yuvraj824 (tᴇlᴇɢrᴀm)"
+        },
+        {
+          "id": "296",
+          "name": "BFLIX",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_472/output/manifest.mpd",
+          "packed_by": "@yuvrᴀᴊ824 (ᴛeleɢrᴀm)"
+        },
+        {
+          "id": "64",
+          "name": "Zee Anmol Cinema",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_387/output/manifest.mpd",
+          "packed_by": "@y🇺vraᴊ824 (tᴇlᴇgrᴀm)"
+        },
+        {
+          "id": "1000",
+          "name": "Colors Cineplex Bollywood",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1827/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raᴊ824 (ᴛᴇlᴇgrᴀm)"
+        },
+        {
+          "id": "1321",
+          "name": "ALL Time MOVIES",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2089/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (telegram)"
+        },
+        {
+          "id": "823",
+          "name": "Goldmines",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1118/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀj824 (ᴛelᴇɢrᴀm)"
+        },
+        {
+          "id": "731",
+          "name": "Manoranjan TV",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_956/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀj824 (ᴛelegram)"
+        },
+        {
+          "id": "173",
+          "name": "Movies Now",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_235/output/manifest.mpd",
+          "packed_by": "@yuvraᴊ824 (telᴇɢram)"
+        },
+        {
+          "id": "12",
+          "name": "Zee Anmol Cinema 2",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_380/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀj824 (tᴇlᴇgrᴀm)"
+        },
+        {
+          "id": "234",
+          "name": "MNX",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_237/output/manifest.mpd",
+          "packed_by": "@yu🇻raj824 (telegram)"
+        },
+        {
+          "id": "32",
+          "name": "SONY PIX HD",
+          "manifest_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_301/output/manifest.mpd",
+          "packed_by": "@y🇺vraj824 (tᴇlᴇgram)"
+        },
+        {
+          "id": "558",
+          "name": "SONY PIX",
+          "manifest_url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_200/output/manifest.mpd",
+          "packed_by": "@yuvrᴀj824 (telegram)"
+        },
+        {
+          "id": "562",
+          "name": "Movies Now HD",
+          "manifest_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_563/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raᴊ824 (telegrᴀm)"
+        },
+        {
+          "id": "210",
+          "name": "MN+ HD",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_259/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (ᴛelᴇgrᴀm)"
+        },
+        {
+          "id": "599",
+          "name": "MNX HD",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_636/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raj824 (ᴛᴇlᴇgram)"
+        },
+        {
+          "id": "174",
+          "name": "Romedy Now",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_236/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀj824 (ᴛᴇlᴇgrᴀm)"
+        },
+        {
+          "id": "223",
+          "name": "DD Sports",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_146/output/manifest.mpd",
+          "packed_by": "@yu🇻raj824 (ᴛelegrᴀm)"
+        },
+        {
+          "id": "78",
+          "name": "Star Sports 1 HD",
+          "manifest_url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd",
+          "packed_by": "@yu🇻raᴊ824 (ᴛᴇlᴇɢrᴀm)"
+        },
+        {
+          "id": "235",
+          "name": "Star Sports 2 HD",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_251/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raᴊ824 (ᴛelᴇɢram)"
+        },
+        {
+          "id": "24",
+          "name": "Star Sports 1 Hindi HD",
+          "manifest_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd",
+          "packed_by": "@yuvrᴀᴊ824 (telᴇgrᴀm)"
+        },
+        {
+          "id": "246",
+          "name": "Star Sports Select 1 HD",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_413/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (telegrᴀm)"
+        },
+        {
+          "id": "463",
+          "name": "Star Sports Select 2 HD",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_729/output/manifest.mpd",
+          "packed_by": "@yuvraᴊ824 (ᴛelegrᴀm)"
+        },
+        {
+          "id": "81",
+          "name": "SONY SPORTS TEN 1 HD",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_256/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀj824 (ᴛᴇlᴇgrᴀm)"
+        },
+        {
+          "id": "150",
+          "name": "SONY SPORTS TEN 1",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_114/output/manifest.mpd",
+          "packed_by": "@yuvrᴀj824 (ᴛelegram)"
+        },
+        {
+          "id": "462",
+          "name": "SONY SPORTS TEN 2 HD",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_726/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raj824 (telegrᴀm)"
+        },
+        {
+          "id": "170",
+          "name": "SONY SPORTS TEN 2",
+          "manifest_url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_115/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀᴊ824 (ᴛeleɢram)"
+        },
+        {
+          "id": "464",
+          "name": "SONY SPORTS TEN 3 HD",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_727/output/manifest.mpd",
+          "packed_by": "@yuvrᴀᴊ824 (tᴇlᴇɢrᴀm)"
+        },
+        {
+          "id": "171",
+          "name": "SONY SPORTS TEN 3",
+          "manifest_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_116/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (ᴛelᴇɢrᴀm)"
+        },
+        {
+          "id": "35",
+          "name": "SONY SPORTS TEN 5 HD",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_254/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (telegram)"
+        },
+        {
+          "id": "1033",
+          "name": "Sports 18 - 1 HD",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1852/output/manifest.mpd",
+          "packed_by": "@yuvrᴀᴊ824 (tᴇlegrᴀm)"
+        },
+        {
+          "id": "980",
+          "name": "Sports 18 - 1",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1809/output/manifest.mpd",
+          "packed_by": "@yu🇻raj824 (tᴇlᴇɢrᴀm)"
+        },
+        {
+          "id": "812",
+          "name": "Eurosport HD",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1109/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀj824 (ᴛᴇlᴇgrᴀm)"
+        },
+        {
+          "id": "693",
+          "name": "Eurosport",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_935/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (ᴛᴇlegrᴀm)"
+        },
+        {
+          "id": "691",
+          "name": "DD News HD",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_932/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀᴊ824 (telᴇɢrᴀm)"
+        },
+        {
+          "id": "322",
+          "name": "DD News",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_517/output/manifest.mpd",
+          "packed_by": "@y🇺vraᴊ824 (tᴇleɢram)"
+        },
+        {
+          "id": "177",
+          "name": "ABP News",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_165/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (ᴛelᴇɢrᴀm)"
+        },
+        {
+          "id": "783",
+          "name": "Tata Play Seniors",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_974/output/manifest.mpd",
+          "packed_by": "@yuvrᴀᴊ824 (telegram)"
+        },
+        {
+          "id": "179",
+          "name": "NDTV India",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_104/output/manifest.mpd",
+          "packed_by": "@y🇺vraj824 (telᴇɢram)"
+        },
+        {
+          "id": "689",
+          "name": "Aaj Tak HD",
+          "manifest_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_930/output/manifest.mpd",
+          "packed_by": "@yuvrᴀᴊ824 (ᴛᴇlᴇgrᴀm)"
+        },
+        {
+          "id": "153",
+          "name": "Aaj Tak",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_191/output/manifest.mpd",
+          "packed_by": "@yuvrᴀᴊ824 (ᴛᴇlegram)"
+        },
+        {
+          "id": "259",
+          "name": "Zee News",
+          "manifest_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_420/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀᴊ824 (ᴛelegrᴀm)"
+        },
+        {
+          "id": "872",
+          "name": "Tata Play Astro Duniya",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1148/output/manifest.mpd",
+          "packed_by": "@yuvrᴀᴊ824 (teleɢram)"
+        },
+        {
+          "id": "104",
+          "name": "India TV",
+          "manifest_url": "https://bpprod14catchup.akamaized.net/out/i/8026939.mpd",
+          "packed_by": "@yu🇻raj824 (ᴛelᴇɢram)"
+        },
+        {
+          "id": "1056",
+          "name": "Tata Play Har Ghar Startup",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1874/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀᴊ824 (tᴇleɢrᴀm)"
+        },
+        {
+          "id": "209",
+          "name": "News 24",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_308/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀj824 (ᴛelᴇɢram)"
+        },
+        {
+          "id": "929",
+          "name": "Tata Play JEE Prep",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1324/output/manifest.mpd",
+          "packed_by": "@yu🇻raj824 (tᴇlᴇɢrᴀm)"
+        },
+        {
+          "id": "928",
+          "name": "Tata Play NEET Prep",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1323/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (ᴛᴇlᴇgrᴀm)"
+        },
+        {
+          "id": "106",
+          "name": "News18 India",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_149/output/manifest.mpd",
+          "packed_by": "@yuvraᴊ824 (ᴛᴇlᴇgram)"
+        },
+        {
+          "id": "514",
+          "name": "Zee Bharat",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_840/output/manifest.mpd",
+          "packed_by": "@yuvrᴀᴊ824 (ᴛᴇlegram)"
+        },
+        {
+          "id": "696",
+          "name": "R Bharat",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/v1/dash/611d79b11b77e2f571934fd80ca1413453772ac7/vg-sk-791089/index.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (tᴇlᴇɢram)"
+        },
+        {
+          "id": "183",
+          "name": "India News",
+          "manifest_url": "https://bpprod14catchup.akamaized.net/out/i/8025280.mpd",
+          "packed_by": "@yu🇻rᴀj824 (telᴇgrᴀm)"
+        },
+        {
+          "id": "36",
+          "name": "News Nation",
+          "manifest_url": "https://bpprod14catchup.akamaized.net/out/i/8026950.mpd",
+          "packed_by": "@yuvrᴀᴊ824 (ᴛᴇlᴇɢrᴀm)"
+        },
+        {
+          "id": "706",
+          "name": "TV9 Bharatvarsh",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_945/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀj824 (tᴇlegram)"
+        },
+        {
+          "id": "485",
+          "name": "TOTAL TV",
+          "manifest_url": "https://bpprod13catchup.akamaized.net/out/i/6443117.mpd",
+          "packed_by": "@yuvrᴀj824 (teleɢrᴀm)"
+        },
+        {
+          "id": "932",
+          "name": "Times Now Navbharat HD",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1327/output/manifest.mpd",
+          "packed_by": "@yuvraᴊ824 (ᴛelᴇgrᴀm)"
+        },
+        {
+          "id": "966",
+          "name": "Times Now Navbharat",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1791/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raj824 (telᴇɢram)"
+        },
+        {
+          "id": "831",
+          "name": "News India 24x7",
+          "manifest_url": "https://bpprod13catchup.akamaized.net/out/i/6443130.mpd",
+          "packed_by": "@yuvrᴀj824 (telᴇɢram)"
+        },
+        {
+          "id": "1010",
+          "name": "Bharat 24",
+          "manifest_url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1836/output/manifest.mpd",
+          "packed_by": "@yuvrᴀj824 (tᴇlᴇɢram)"
+        },
+        {
+          "id": "1031",
+          "name": "Surya Samachar",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1842/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀj824 (ᴛᴇlᴇgrᴀm)"
+        },
+        {
+          "id": "475",
+          "name": "Sudarshan News",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_754/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (tᴇleɢrᴀm)"
+        },
+        {
+          "id": "1051",
+          "name": "Bharat Express",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1867/output/manifest.mpd",
+          "packed_by": "@y🇺vraᴊ824 (ᴛelᴇgrᴀm)"
+        },
+        {
+          "id": "1084",
+          "name": "India Daily Live",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1897/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raj824 (telᴇgrᴀm)"
+        },
+        {
+          "id": "1161",
+          "name": "Desh News",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1944/output/manifest.mpd",
+          "packed_by": "@yuvraj824 (tᴇlᴇɢrᴀm)"
+        },
+        {
+          "id": "286",
+          "name": "APN News",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_459/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (ᴛelegrᴀm)"
+        },
+        {
+          "id": "950",
+          "name": "ET Now Swadesh",
+          "manifest_url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1781/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀᴊ824 (ᴛeleɢrᴀm)"
+        },
+        {
+          "id": "685",
+          "name": "India Voice",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_922/output/manifest.mpd",
+          "packed_by": "@y🇺vraᴊ824 (ᴛᴇleɢrᴀm)"
+        },
+        {
+          "id": "414",
+          "name": "News 1 India",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_658/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raj824 (ᴛelegram)"
+        },
+        {
+          "id": "344",
+          "name": "Hindi Khabar",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_564/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raᴊ824 (tᴇlᴇgram)"
+        },
+        {
+          "id": "291",
+          "name": "Bharat Samachar",
+          "manifest_url": "https://bpprod13catchup.akamaized.net/out/i/6443095.mpd",
+          "packed_by": "@yuvraj824 (telegram)"
+        },
+        {
+          "id": "384",
+          "name": "Khabarain Abhi Tak",
+          "manifest_url": "https://bpprod14catchup.akamaized.net/out/i/8025681.mpd",
+          "packed_by": "@yuvrᴀj824 (ᴛelᴇɢram)"
+        },
+        {
+          "id": "441",
+          "name": "Samay",
+          "manifest_url": "https://bpprod14catchup.akamaized.net/out/i/8027283.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (teleɢram)"
+        },
+        {
+          "id": "848",
+          "name": "Network 10",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1136/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀᴊ824 (ᴛᴇlegram)"
+        },
+        {
+          "id": "701",
+          "name": "Jantantra TV",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_941/output/manifest.mpd",
+          "packed_by": "@yuvrᴀj824 (telᴇgrᴀm)"
+        },
+        {
+          "id": "988",
+          "name": "Har Khabar",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1814/output/manifest.mpd",
+          "packed_by": "@yu🇻raj824 (teleɢrᴀm)"
+        },
+        {
+          "id": "784",
+          "name": "FM News",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_976/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀᴊ824 (teleɢrᴀm)"
+        },
+        {
+          "id": "1274",
+          "name": "Swadesh News",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2055/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raᴊ824 (ᴛeleɢrᴀm)"
+        },
+        {
+          "id": "278",
+          "name": "Good News Today",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_434/output/manifest.mpd",
+          "packed_by": "@yu🇻raᴊ824 (ᴛᴇlᴇɢrᴀm)"
+        },
+        {
+          "id": "260",
+          "name": "Zee Business",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_421/output/manifest.mpd",
+          "packed_by": "@yuvrᴀj824 (tᴇlᴇgram)"
+        },
+        {
+          "id": "204",
+          "name": "CNBC Awaaz",
+          "manifest_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_147/output/manifest.mpd",
+          "packed_by": "@yuvrᴀᴊ824 (telᴇɢram)"
+        },
+        {
+          "id": "213",
+          "name": "Sansad TV",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_281/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raj824 (ᴛelᴇɢram)"
+        },
+        {
+          "id": "212",
+          "name": "Sansad TV - Rajya Sabha",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_311/output/manifest.mpd",
+          "packed_by": "@yuvrᴀj824 (ᴛᴇleɢrᴀm)"
+        },
+        {
+          "id": "208",
+          "name": "NDTV 24x7",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_107/output/manifest.mpd",
+          "packed_by": "@yuvrᴀᴊ824 (teleɢrᴀm)"
+        },
+        {
+          "id": "547",
+          "name": "Times Now World",
+          "manifest_url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_779/output/manifest.mpd",
+          "packed_by": "@yuvrᴀj824 (tᴇlegram)"
+        },
+        {
+          "id": "90",
+          "name": "TIMES NOW",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_162/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raᴊ824 (ᴛᴇlᴇgram)"
+        },
+        {
+          "id": "1",
+          "name": "INDIA TODAY",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_221/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀᴊ824 (ᴛelegrᴀm)"
+        },
+        {
+          "id": "206",
+          "name": "CNN News18",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_108/output/manifest.mpd",
+          "packed_by": "@yu🇻raᴊ824 (tᴇleɢrᴀm)"
+        },
+        {
+          "id": "189",
+          "name": "NewsX",
+          "manifest_url": "https://bpprod13catchup.akamaized.net/out/i/6444285.mpd",
+          "packed_by": "@yu🇻rᴀj824 (ᴛelᴇɢram)"
+        },
+        {
+          "id": "591",
+          "name": "MIRROR NOW",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_615/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (ᴛelᴇɢrᴀm)"
+        },
+        {
+          "id": "255",
+          "name": "WION",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_422/output/manifest.mpd",
+          "packed_by": "@yu🇻raᴊ824 (telᴇɢrᴀm)"
+        },
+        {
+          "id": "72",
+          "name": "REPUBLIC TV",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/v1/dash/611d79b11b77e2f571934fd80ca1413453772ac7/vg-sk-380287/index.mpd",
+          "packed_by": "@y🇺vrᴀj824 (telegram)"
+        },
+        {
+          "id": "324",
+          "name": "DD India",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_508/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀj824 (tᴇlᴇɢram)"
+        },
+        {
+          "id": "304",
+          "name": "CNBC TV18 Prime HD",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_488/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀj824 (telᴇgram)"
+        },
+        {
+          "id": "93",
+          "name": "NDTV Profit Prime",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_110/output/manifest.mpd",
+          "packed_by": "@yuvrᴀj824 (telegrᴀm)"
+        },
+        {
+          "id": "2",
+          "name": "Travel XP - 4K",
+          "manifest_url": "https://bpprod47catchup.akamaized.net/out/i/298431.mpd",
+          "packed_by": "@y🇺vraᴊ824 (ᴛelᴇgrᴀm)"
+        },
+        {
+          "id": "168",
+          "name": "CNBC-TV18",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_109/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (ᴛᴇlᴇɢrᴀm)"
+        },
+        {
+          "id": "88",
+          "name": "ET NOW",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_163/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raj824 (tᴇlᴇɢrᴀm)"
+        },
+        {
+          "id": "1136",
+          "name": "Bloomberg Television",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1930/output/manifest.mpd",
+          "packed_by": "@yuvraj824 (ᴛeleɢrᴀm)"
+        },
+        {
+          "id": "243",
+          "name": "CNN",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_410/output/manifest.mpd",
+          "packed_by": "@yuvrᴀj824 (ᴛelᴇɢram)"
+        },
+        {
+          "id": "188",
+          "name": "BBC News",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_151/output/manifest.mpd",
+          "packed_by": "@y🇺vraj824 (ᴛelegram)"
+        },
+        {
+          "id": "190",
+          "name": "Al Jazeera",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_187/output/manifest.mpd",
+          "packed_by": "@yuvraj824 (ᴛᴇlᴇgrᴀm)"
+        },
+        {
+          "id": "157",
+          "name": "Channel News Asia",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_220/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (teleɢrᴀm)"
+        },
+        {
+          "id": "131",
+          "name": "France 24",
+          "manifest_url": "https://bpprod14catchup.akamaized.net/out/i/8026961.mpd",
+          "packed_by": "@yu🇻rᴀj824 (tᴇleɢrᴀm)"
+        },
+        {
+          "id": "65",
+          "name": "TV5 Monde Asie",
+          "manifest_url": "https://bpprod13catchup.akamaized.net/out/i/6443106.mpd",
+          "packed_by": "@yuvraj824 (teleɢram)"
+        },
+        {
+          "id": "60",
+          "name": "DW",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_376/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (tᴇlegram)"
+        },
+        {
+          "id": "105",
+          "name": "Australia TV",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_239/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (ᴛᴇlegram)"
+        },
+        {
+          "id": "98",
+          "name": "Russia Today",
+          "manifest_url": "https://bpprod13catchup.akamaized.net/out/i/6445246.mpd",
+          "packed_by": "@y🇺vrᴀj824 (telegrᴀm)"
+        },
+        {
+          "id": "976",
+          "name": "NHK World Japan",
+          "manifest_url": "https://bpprod14catchup.akamaized.net/out/i/8025269.mpd",
+          "packed_by": "@y🇺vrᴀj824 (tᴇleɢram)"
+        },
+        {
+          "id": "587",
+          "name": "Super Hungama",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_781/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raj824 (ᴛᴇlᴇgrᴀm)"
+        },
+        {
+          "id": "114",
+          "name": "Disney",
+          "manifest_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_166/output/manifest.mpd",
+          "packed_by": "@y🇺vraj824 (ᴛelᴇɢrᴀm)"
+        },
+        {
+          "id": "71",
+          "name": "Tata Play English in Hindi",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_396/output/manifest.mpd",
+          "packed_by": "@yu🇻raj824 (telᴇgram)"
+        },
+        {
+          "id": "433",
+          "name": "Nick HD+",
+          "manifest_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_663/output/manifest.mpd",
+          "packed_by": "@yuvrᴀᴊ824 (tᴇlᴇɢram)"
+        },
+        {
+          "id": "138",
+          "name": "Nick",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_117/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (ᴛᴇlᴇgrᴀm)"
+        },
+        {
+          "id": "626",
+          "name": "Tata Play Fun Learn Preschool",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_860/output/manifest.mpd",
+          "packed_by": "@y🇺vraᴊ824 (ᴛeleɢrᴀm)"
+        },
+        {
+          "id": "627",
+          "name": "Tata Play Fun Learn Junior",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_861/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raᴊ824 (ᴛᴇleɢram)"
+        },
+        {
+          "id": "681",
+          "name": "Cartoon Network HD+",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_925/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raj824 (ᴛelᴇɢram)"
+        },
+        {
+          "id": "238",
+          "name": "Cartoon Network",
+          "manifest_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_405/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀj824 (ᴛelᴇgram)"
+        },
+        {
+          "id": "239",
+          "name": "Pogo",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_406/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (telegrᴀm)"
+        },
+        {
+          "id": "119",
+          "name": "Discovery Kids",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_130/output/manifest.mpd",
+          "packed_by": "@y🇺vraj824 (ᴛᴇlᴇgrᴀm)"
+        },
+        {
+          "id": "127",
+          "name": "Sonic Nickelodeon",
+          "manifest_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_169/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raj824 (teleɢram)"
+        },
+        {
+          "id": "45",
+          "name": "SONY YAY!",
+          "manifest_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_365/output/manifest.mpd",
+          "packed_by": "@yu🇻raj824 (ᴛᴇlᴇɢram)"
+        },
+        {
+          "id": "994",
+          "name": "Tata Play Toons+",
+          "manifest_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1821/output/manifest.mpd",
+          "packed_by": "@yu🇻raᴊ824 (ᴛᴇlegram)"
+        },
+        {
+          "id": "867",
+          "name": "Gubbare",
+          "manifest_url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1143/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀj824 (tᴇleɢrᴀm)"
+        },
+        {
+          "id": "905",
+          "name": "ETV Bal Bharat",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1311/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀᴊ824 (telᴇɢrᴀm)"
+        },
+        {
+          "id": "118",
+          "name": "Nick Jr",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_168/output/manifest.mpd",
+          "packed_by": "@yuvraᴊ824 (tᴇlᴇɢram)"
+        },
+        {
+          "id": "144",
+          "name": "Disney Junior",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_167/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀj824 (telegram)"
+        },
+        {
+          "id": "816",
+          "name": "CBeeBies",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1112/output/manifest.mpd",
+          "packed_by": "@yuvraj824 (tᴇlegram)"
+        },
+        {
+          "id": "111",
+          "name": "Tata Play Smart Manager",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_391/output/manifest.mpd",
+          "packed_by": "@y🇺vraᴊ824 (tᴇleɢram)"
+        },
+        {
+          "id": "167",
+          "name": "Tata Play Vedic Maths",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_392/output/manifest.mpd",
+          "packed_by": "@y🇺vraj824 (tᴇlegrᴀm)"
+        },
+        {
+          "id": "605",
+          "name": "National Geographic HD",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_652/output/manifest.mpd",
+          "packed_by": "@y🇺vraᴊ824 (ᴛelᴇgram)"
+        },
+        {
+          "id": "137",
+          "name": "National Geographic",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_113/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (ᴛᴇlegram)"
+        },
+        {
+          "id": "413",
+          "name": "Nat Geo Wild HD",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_655/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀj824 (telᴇgrᴀm)"
+        },
+        {
+          "id": "184",
+          "name": "Nat Geo Wild",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_119/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀj824 (telᴇgrᴀm)"
+        },
+        {
+          "id": "341",
+          "name": "Discovery HD World",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_530/output/manifest.mpd",
+          "packed_by": "@y🇺vraj824 (ᴛeleɢram)"
+        },
+        {
+          "id": "219",
+          "name": "Discovery Channel",
+          "manifest_url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_128/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (tᴇlᴇɢram)"
+        },
+        {
+          "id": "287",
+          "name": "Animal Planet HD World",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_457/output/manifest.mpd",
+          "packed_by": "@y🇺vraᴊ824 (tᴇleɢram)"
+        },
+        {
+          "id": "130",
+          "name": "Animal Planet",
+          "manifest_url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_129/output/manifest.mpd",
+          "packed_by": "@y🇺vraj824 (ᴛᴇleɢram)"
+        },
+        {
+          "id": "113",
+          "name": "Discovery Science",
+          "manifest_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_153/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raᴊ824 (ᴛᴇleɢram)"
+        },
+        {
+          "id": "616",
+          "name": "History TV18 HD",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_565/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀᴊ824 (tᴇlᴇgrᴀm)"
+        },
+        {
+          "id": "172",
+          "name": "History TV18",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_120/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀᴊ824 (ᴛelᴇgram)"
+        },
+        {
+          "id": "460",
+          "name": "SONY BBC Earth HD",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_722/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (teleɢram)"
+        },
+        {
+          "id": "158",
+          "name": "SONY BBC Earth",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_400/output/manifest.mpd",
+          "packed_by": "@y🇺vraj824 (tᴇlᴇɢram)"
+        },
+        {
+          "id": "923",
+          "name": "TravelXP 4K HDR",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/out/i/968284.m3u8",
+          "packed_by": "@y🇺vrᴀj824 (tᴇlᴇɢrᴀm)"
+        },
+        {
+          "id": "126",
+          "name": "EPIC",
+          "manifest_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_194/output/manifest.mpd",
+          "packed_by": "@yuvraᴊ824 (ᴛᴇlegram)"
+        },
+        {
+          "id": "367",
+          "name": "Star Life HD",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_544/output/manifest.mpd",
+          "packed_by": "@yuvrᴀᴊ824 (teleɢram)"
+        },
+        {
+          "id": "646",
+          "name": "DD Gyan Darshan",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_881/output/manifest.mpd",
+          "packed_by": "@y🇺vraᴊ824 (ᴛelᴇgrᴀm)"
+        },
+        {
+          "id": "480",
+          "name": "TLC HD",
+          "manifest_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_780/output/manifest.mpd",
+          "packed_by": "@y🇺vraj824 (telᴇɢrᴀm)"
+        },
+        {
+          "id": "135",
+          "name": "TLC",
+          "manifest_url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_127/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (ᴛᴇlᴇɢram)"
+        },
+        {
+          "id": "136",
+          "name": "GOOD TiMES",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_111/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (tᴇleɢram)"
+        },
+        {
+          "id": "228",
+          "name": "Discovery Turbo",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_145/output/manifest.mpd",
+          "packed_by": "@yu🇻raj824 (ᴛᴇleɢram)"
+        },
+        {
+          "id": "484",
+          "name": "Travelxp HD",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_788/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raj824 (telᴇɢrᴀm)"
+        },
+        {
+          "id": "55",
+          "name": "Travelxp",
+          "manifest_url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_366/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (tᴇleɢrᴀm)"
+        },
+        {
+          "id": "117",
+          "name": "Food Food",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_154/output/manifest.mpd",
+          "packed_by": "@yuvraj824 (tᴇlᴇɢram)"
+        },
+        {
+          "id": "227",
+          "name": "Fashion TV",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_404/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (tᴇlᴇɢrᴀm)"
+        },
+        {
+          "id": "735",
+          "name": "Tata Play Ibaadat",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1632/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raᴊ824 (tᴇlegram)"
+        },
+        {
+          "id": "406",
+          "name": "MTV HD",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_638/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (telegrᴀm)"
+        },
+        {
+          "id": "103",
+          "name": "MTV",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_105/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀj824 (telᴇgrᴀm)"
+        },
+        {
+          "id": "139",
+          "name": "9XM",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_201/output/manifest.mpd",
+          "packed_by": "@yuvrᴀᴊ824 (ᴛᴇleɢram)"
+        },
+        {
+          "id": "96",
+          "name": "Zoom",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_164/output/manifest.mpd",
+          "packed_by": "@yuvraj824 (tᴇleɢram)"
+        },
+        {
+          "id": "224",
+          "name": "E24",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_278/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raᴊ824 (ᴛelᴇɢram)"
+        },
+        {
+          "id": "405",
+          "name": "MTV Beats HD",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_637/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀj824 (tᴇlᴇɢram)"
+        },
+        {
+          "id": "236",
+          "name": "MTV Beats",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_402/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀᴊ824 (tᴇlegrᴀm)"
+        },
+        {
+          "id": "9",
+          "name": "B4U Music",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_277/output/manifest.mpd",
+          "packed_by": "@yuvrᴀj824 (telᴇgrᴀm)"
+        },
+        {
+          "id": "17",
+          "name": "Mastiii",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_279/output/manifest.mpd",
+          "packed_by": "@y🇺vraj824 (telᴇɢrᴀm)"
+        },
+        {
+          "id": "517",
+          "name": "Zing",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_843/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (ᴛelegram)"
+        },
+        {
+          "id": "39",
+          "name": "9X Jalwa",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_355/output/manifest.mpd",
+          "packed_by": "@yuvrᴀᴊ824 (telegram)"
+        },
+        {
+          "id": "733",
+          "name": "Showbox",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_961/output/manifest.mpd",
+          "packed_by": "@yu🇻raᴊ824 (ᴛᴇleɢram)"
+        },
+        {
+          "id": "539",
+          "name": "VH1 HD",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_817/output/manifest.mpd",
+          "packed_by": "@y🇺vraj824 (ᴛelᴇgram)"
+        },
+        {
+          "id": "38",
+          "name": "Aastha",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_341/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (telᴇɢram)"
+        },
+        {
+          "id": "43",
+          "name": "Sanskar",
+          "manifest_url": "https://bpprod14catchup.akamaized.net/out/i/8025908.mpd",
+          "packed_by": "@yu🇻rᴀj824 (ᴛᴇlᴇɢrᴀm)"
+        },
+        {
+          "id": "446",
+          "name": "Paras Gold One",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_669/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raj824 (ᴛᴇlᴇɢram)"
+        },
+        {
+          "id": "397",
+          "name": "MH One Shraddha",
+          "manifest_url": "https://bpprod13catchup.akamaized.net/out/i/6446188.mpd",
+          "packed_by": "@yu🇻raᴊ824 (teleɢram)"
+        },
+        {
+          "id": "447",
+          "name": "Sadhna TV",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_696/output/manifest.mpd",
+          "packed_by": "@yu🇻raj824 (teleɢrᴀm)"
+        },
+        {
+          "id": "420",
+          "name": "Peace of Mind",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_670/output/manifest.mpd",
+          "packed_by": "@yuvraᴊ824 (telᴇgrᴀm)"
+        },
+        {
+          "id": "288",
+          "name": "Dharma Sandesh",
+          "manifest_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_461/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raj824 (teleɢram)"
+        },
+        {
+          "id": "594",
+          "name": "Ishwar TV",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_579/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀj824 (tᴇlegrᴀm)"
+        },
+        {
+          "id": "456",
+          "name": "Satsang TV",
+          "manifest_url": "https://bpprod14catchup.akamaized.net/out/i/8025897.mpd",
+          "packed_by": "@yu🇻raᴊ824 (tᴇlᴇɢram)"
+        },
+        {
+          "id": "458",
+          "name": "Shubh TV",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_715/output/manifest.mpd",
+          "packed_by": "@y🇺vraᴊ824 (tᴇlᴇɢram)"
+        },
+        {
+          "id": "283",
+          "name": "Aastha Bhajan",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_436/output/manifest.mpd",
+          "packed_by": "@y🇺vraᴊ824 (tᴇlᴇgram)"
+        },
+        {
+          "id": "500",
+          "name": "Vedic",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_814/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀᴊ824 (ᴛᴇlegram)"
+        },
+        {
+          "id": "728",
+          "name": "Subharti TV",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_958/output/manifest.mpd",
+          "packed_by": "@yu🇻raᴊ824 (ᴛᴇleɢrᴀm)"
+        },
+        {
+          "id": "775",
+          "name": "DIVYA",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_969/output/manifest.mpd",
+          "packed_by": "@y🇺vraᴊ824 (ᴛeleɢram)"
+        },
+        {
+          "id": "935",
+          "name": "Awakening",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1184/output/manifest.mpd",
+          "packed_by": "@y🇺vraj824 (ᴛelegrᴀm)"
+        },
+        {
+          "id": "911",
+          "name": "Santwani",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1316/output/manifest.mpd",
+          "packed_by": "@yuvraj824 (tᴇlᴇgrᴀm)"
+        },
+        {
+          "id": "969",
+          "name": "Aadinath TV",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1799/output/manifest.mpd",
+          "packed_by": "@yuvrᴀᴊ824 (ᴛᴇlᴇɢrᴀm)"
+        },
+        {
+          "id": "802",
+          "name": "Studio One +",
+          "manifest_url": "https://bpprod13catchup.akamaized.net/out/i/6367824.mpd",
+          "packed_by": "@yu🇻raj824 (ᴛelᴇɢram)"
+        },
+        {
+          "id": "837",
+          "name": "Hare Krsna",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/HKTV/HKWebApp/manifest.mpd",
+          "packed_by": "@yuvraj824 (teleɢrᴀm)"
+        },
+        {
+          "id": "970",
+          "name": "MH One Dil Se",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1800/output/manifest.mpd",
+          "packed_by": "@yuvrᴀj824 (tᴇlᴇɢram)"
+        },
+        {
+          "id": "814",
+          "name": "Zee Biskope",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1111/output/manifest.mpd",
+          "packed_by": "@yuvrᴀj824 (ᴛᴇleɢrᴀm)"
+        },
+        {
+          "id": "830",
+          "name": "Filamchi Bhojpuri",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1126/output/manifest.mpd",
+          "packed_by": "@yuvrᴀj824 (tᴇlᴇɢrᴀm)"
+        },
+        {
+          "id": "181",
+          "name": "Bhojpuri Cinema",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_379/output/manifest.mpd",
+          "packed_by": "@yu🇻raj824 (telᴇgrᴀm)"
+        },
+        {
+          "id": "431",
+          "name": "Oscar Movies Bhojpuri.",
+          "manifest_url": "https://bpprod14catchup.akamaized.net/out/i/8025247.mpd",
+          "packed_by": "@yuvraj824 (tᴇleɢram)"
+        },
+        {
+          "id": "729",
+          "name": "B4U Bhojpuri",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_959/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀj824 (ᴛelegrᴀm)"
+        },
+        {
+          "id": "899",
+          "name": "Pasand",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1309/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀᴊ824 (telegram)"
+        },
+        {
+          "id": "1165",
+          "name": "Raapchik",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1947/output/manifest.mpd",
+          "packed_by": "@y🇺vraj824 (ᴛᴇlegram)"
+        },
+        {
+          "id": "838",
+          "name": "Kashish News",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1130/output/manifest.mpd",
+          "packed_by": "@yu🇻raj824 (ᴛᴇlᴇgram)"
+        },
+        {
+          "id": "79",
+          "name": "News18 Uttar Pradesh Uttarakhand",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_352/output/manifest.mpd",
+          "packed_by": "@yuvrᴀj824 (ᴛelᴇgrᴀm)"
+        },
+        {
+          "id": "637",
+          "name": "Zee Uttar Pradesh Uttarakhand",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_874/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raj824 (ᴛelegrᴀm)"
+        },
+        {
+          "id": "166",
+          "name": "News18 Bihar Jharkhand",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_247/output/manifest.mpd",
+          "packed_by": "@yuvrᴀj824 (ᴛᴇlᴇgrᴀm)"
+        },
+        {
+          "id": "20",
+          "name": "Zee Bihar Jharkhand",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_389/output/manifest.mpd",
+          "packed_by": "@yu🇻raj824 (telᴇgram)"
+        },
+        {
+          "id": "30",
+          "name": "India News UP UK",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_361/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀᴊ824 (ᴛᴇlegram)"
+        },
+        {
+          "id": "613",
+          "name": "News State UP Uttarakhand",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_661/output/manifest.mpd",
+          "packed_by": "@y🇺vraj824 (telegram)"
+        },
+        {
+          "id": "827",
+          "name": "Sadhna Plus News",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1124/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀᴊ824 (telᴇgram)"
+        },
+        {
+          "id": "973",
+          "name": "Sahara Samay UP-UKD",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1802/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raᴊ824 (ᴛᴇlegrᴀm)"
+        },
+        {
+          "id": "1267",
+          "name": "HNN News",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2051/output/manifest.mpd",
+          "packed_by": "@yuvraᴊ824 (telᴇɢrᴀm)"
+        },
+        {
+          "id": "1188",
+          "name": "DD Jharkhand",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1967/output/manifest.mpd",
+          "packed_by": "@yu🇻raᴊ824 (ᴛelᴇgrᴀm)"
+        },
+        {
+          "id": "316",
+          "name": "DD Bharati",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_504/output/manifest.mpd",
+          "packed_by": "@y🇺vraj824 (telegram)"
+        },
+        {
+          "id": "339",
+          "name": "DD Uttar Pradesh",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_525/output/manifest.mpd",
+          "packed_by": "@y🇺vraᴊ824 (ᴛᴇlᴇgram)"
+        },
+        {
+          "id": "317",
+          "name": "DD Bihar",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_505/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raj824 (ᴛeleɢram)"
+        },
+        {
+          "id": "203",
+          "name": "News18 Madhya Pradesh Chhattisgarh",
+          "manifest_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_213/output/manifest.mpd",
+          "packed_by": "@yuvraᴊ824 (tᴇlᴇgram)"
+        },
+        {
+          "id": "512",
+          "name": "Zee Madhya Pradesh Chattisgarh",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_837/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀj824 (ᴛelᴇgram)"
+        },
+        {
+          "id": "27",
+          "name": "IBC 24",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_331/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (ᴛeleɢrᴀm)"
+        },
+        {
+          "id": "652",
+          "name": "Bansal News",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_885/output/manifest.mpd",
+          "packed_by": "@yu🇻raj824 (ᴛelegrᴀm)"
+        },
+        {
+          "id": "698",
+          "name": "INH 24X7",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_939/output/manifest.mpd",
+          "packed_by": "@yuvrᴀj824 (ᴛᴇlᴇgrᴀm)"
+        },
+        {
+          "id": "222",
+          "name": "India News MP CG",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_359/output/manifest.mpd",
+          "packed_by": "@yuvrᴀj824 (ᴛeleɢrᴀm)"
+        },
+        {
+          "id": "643",
+          "name": "News State MP CG",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_878/output/manifest.mpd",
+          "packed_by": "@yuvrᴀj824 (ᴛelᴇɢram)"
+        },
+        {
+          "id": "577",
+          "name": "Swaraj Express SMBC",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_719/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀj824 (tᴇleɢram)"
+        },
+        {
+          "id": "829",
+          "name": "Sadhna News MP CG",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1122/output/manifest.mpd",
+          "packed_by": "@yuvraᴊ824 (tᴇleɢram)"
+        },
+        {
+          "id": "902",
+          "name": "News 24 Madhyapradesh Chattisgarh",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1310/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raᴊ824 (ᴛᴇlegrᴀm)"
+        },
+        {
+          "id": "937",
+          "name": "Anaadi TV",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1333/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀj824 (tᴇlegram)"
+        },
+        {
+          "id": "993",
+          "name": "News Hour",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1820/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (telᴇgram)"
+        },
+        {
+          "id": "1009",
+          "name": "TV27 News",
+          "manifest_url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1837/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (ᴛᴇleɢrᴀm)"
+        },
+        {
+          "id": "1074",
+          "name": "TV 24",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1889/output/manifest.mpd",
+          "packed_by": "@y🇺vraᴊ824 (ᴛᴇlᴇɢrᴀm)"
+        },
+        {
+          "id": "1159",
+          "name": "NDTV MPCG",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1943/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀj824 (tᴇlᴇɢram)"
+        },
+        {
+          "id": "1315",
+          "name": "Vistaar News",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2084/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀᴊ824 (ᴛelᴇgram)"
+        },
+        {
+          "id": "330",
+          "name": "DD Madhya Pradesh",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_511/output/manifest.mpd",
+          "packed_by": "@yu🇻raj824 (ᴛᴇleɢrᴀm)"
+        },
+        {
+          "id": "205",
+          "name": "News18 Rajasthan",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_141/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (telᴇgrᴀm)"
+        },
+        {
+          "id": "583",
+          "name": "Zee Rajasthan News",
+          "manifest_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_831/output/manifest.mpd",
+          "packed_by": "@y🇺vraᴊ824 (tᴇlᴇɢrᴀm)"
+        },
+        {
+          "id": "650",
+          "name": "First India Rajasthan",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_884/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raᴊ824 (ᴛᴇlᴇgrᴀm)"
+        },
+        {
+          "id": "14",
+          "name": "India News Rajasthan",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_360/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raᴊ824 (ᴛelᴇɢrᴀm)"
+        },
+        {
+          "id": "870",
+          "name": "Jan TV",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1147/output/manifest.mpd",
+          "packed_by": "@yu🇻raᴊ824 (tᴇlegram)"
+        },
+        {
+          "id": "1075",
+          "name": "Sach Bedhadak",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1888/output/manifest.mpd",
+          "packed_by": "@yu🇻raj824 (ᴛelegrᴀm)"
+        },
+        {
+          "id": "1152",
+          "name": "NDTV Rajasthan",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1942/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raj824 (ᴛᴇlᴇɢram)"
+        },
+        {
+          "id": "332",
+          "name": "DD Rajasthan",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_521/output/manifest.mpd",
+          "packed_by": "@yuvrᴀj824 (ᴛeleɢrᴀm)"
+        },
+        {
+          "id": "354",
+          "name": "News18 Jammu Kashmir Ladakh Himachal",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_540/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀj824 (ᴛelegram)"
+        },
+        {
+          "id": "518",
+          "name": "Salaam TV",
+          "manifest_url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_839/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (tᴇleɢrᴀm)"
+        },
+        {
+          "id": "161",
+          "name": "Channel WIN",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_354/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raj824 (ᴛeleɢrᴀm)"
+        },
+        {
+          "id": "365",
+          "name": "Gulistan News",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_557/output/manifest.mpd",
+          "packed_by": "@yuvrᴀᴊ824 (telᴇgrᴀm)"
+        },
+        {
+          "id": "338",
+          "name": "DD Urdu",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_524/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raᴊ824 (ᴛeleɢram)"
+        },
+        {
+          "id": "308",
+          "name": "Colors Marathi HD",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_491/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raj824 (tᴇlᴇɢram)"
+        },
+        {
+          "id": "134",
+          "name": "Colors Marathi",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_230/output/manifest.mpd",
+          "packed_by": "@yuvraᴊ824 (tᴇleɢrᴀm)"
+        },
+        {
+          "id": "501",
+          "name": "Zee Marathi HD",
+          "manifest_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_836/output/manifest.mpd",
+          "packed_by": "@y🇺vraᴊ824 (tᴇleɢram)"
+        },
+        {
+          "id": "251",
+          "name": "Zee Marathi",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_424/output/manifest.mpd",
+          "packed_by": "@yu🇻raj824 (tᴇleɢrᴀm)"
+        },
+        {
+          "id": "622",
+          "name": "Tata Play Marathi Cinema",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_854/output/manifest.mpd",
+          "packed_by": "@yu🇻raj824 (tᴇlᴇgram)"
+        },
+        {
+          "id": "469",
+          "name": "Star Pravah HD",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_744/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raj824 (ᴛeleɢrᴀm)"
+        },
+        {
+          "id": "248",
+          "name": "Zee YUVA",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_426/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raj824 (telᴇgrᴀm)"
+        },
+        {
+          "id": "658",
+          "name": "Sony Marathi",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_892/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀᴊ824 (telegram)"
+        },
+        {
+          "id": "999",
+          "name": "Tata Play Toons+",
+          "manifest_url": "https://bpprod14catchup.akamaized.net/out/i/7253194.mpd",
+          "packed_by": "@yu🇻raj824 (ᴛᴇleɢrᴀm)"
+        },
+        {
+          "id": "515",
+          "name": "Zee Talkies HD",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_841/output/manifest.mpd",
+          "packed_by": "@y🇺vraᴊ824 (tᴇlegram)"
+        },
+        {
+          "id": "249",
+          "name": "Zee Talkies",
+          "manifest_url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_425/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (tᴇlᴇgrᴀm)"
+        },
+        {
+          "id": "192",
+          "name": "Fakt Marathi",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_231/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (ᴛelegrᴀm)"
+        },
+        {
+          "id": "800",
+          "name": "Shemaroo MarathiBana",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_991/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀj824 (teleɢrᴀm)"
+        },
+        {
+          "id": "155",
+          "name": "ABP Majha",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_328/output/manifest.mpd",
+          "packed_by": "@yuvraᴊ824 (telegram)"
+        },
+        {
+          "id": "261",
+          "name": "Zee 24 Taas",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_427/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (ᴛelᴇɢram)"
+        },
+        {
+          "id": "546",
+          "name": "Saam TV",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_326/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raᴊ824 (telᴇɢrᴀm)"
+        },
+        {
+          "id": "233",
+          "name": "Jai Maharashtra",
+          "manifest_url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_329/output/manifest.mpd",
+          "packed_by": "@y🇺vraj824 (telegrᴀm)"
+        },
+        {
+          "id": "97",
+          "name": "TV9 Marathi",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_364/output/manifest.mpd",
+          "packed_by": "@yuvrᴀj824 (tᴇlegrᴀm)"
+        },
+        {
+          "id": "826",
+          "name": "Lokshahi Marathi",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1121/output/manifest.mpd",
+          "packed_by": "@y🇺vraj824 (tᴇlᴇgram)"
+        },
+        {
+          "id": "1102",
+          "name": "Pudhari News",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1915/output/manifest.mpd",
+          "packed_by": "@yuvraᴊ824 (ᴛᴇlegrᴀm)"
+        },
+        {
+          "id": "336",
+          "name": "DD Sahyadri",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_522/output/manifest.mpd",
+          "packed_by": "@y🇺vraj824 (ᴛᴇlᴇɢram)"
+        },
+        {
+          "id": "217",
+          "name": "Sangeet Marathi",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_363/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (ᴛelᴇgrᴀm)"
+        },
+        {
+          "id": "305",
+          "name": "Colors Bangla HD",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_489/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (telᴇgram)"
+        },
+        {
+          "id": "26",
+          "name": "Colors Bangla",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_283/output/manifest.mpd",
+          "packed_by": "@yu🇻raᴊ824 (teleɢram)"
+        },
+        {
+          "id": "522",
+          "name": "Zee Bangla HD",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_834/output/manifest.mpd",
+          "packed_by": "@yu🇻raj824 (ᴛelᴇɢram)"
+        },
+        {
+          "id": "468",
+          "name": "Star Jalsha HD",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_736/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raj824 (ᴛᴇlᴇɢram)"
+        },
+        {
+          "id": "34",
+          "name": "SONY AATH",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_285/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (tᴇlegram)"
+        },
+        {
+          "id": "995",
+          "name": "Tata Play Toons+",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1823/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀj824 (tᴇlᴇɢram)"
+        },
+        {
+          "id": "129",
+          "name": "Aakaash Aath",
+          "manifest_url": "https://bpprod14catchup.akamaized.net/out/i/8025886.mpd",
+          "packed_by": "@yuvraj824 (tᴇlᴇgram)"
+        },
+        {
+          "id": "3",
+          "name": "Ruposhi Bangla",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_284/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (ᴛelegram)"
+        },
+        {
+          "id": "788",
+          "name": "Enterr10 Bangla",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_978/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀᴊ824 (ᴛelᴇgrᴀm)"
+        },
+        {
+          "id": "537",
+          "name": "Jalsha Movies HD",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_583/output/manifest.mpd",
+          "packed_by": "@yuvrᴀᴊ824 (ᴛᴇlegram)"
+        },
+        {
+          "id": "254",
+          "name": "Zee Bangla Cinema",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_418/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raᴊ824 (telegrᴀm)"
+        },
+        {
+          "id": "896",
+          "name": "Colors Bangla Cinema",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1305/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raj824 (ᴛᴇlegram)"
+        },
+        {
+          "id": "1132",
+          "name": "Rongeen TV",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1926/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀᴊ824 (ᴛᴇlᴇɢrᴀm)"
+        },
+        {
+          "id": "102",
+          "name": "ABP Ananda",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_249/output/manifest.mpd",
+          "packed_by": "@yu🇻raᴊ824 (ᴛᴇleɢrᴀm)"
+        },
+        {
+          "id": "258",
+          "name": "Zee 24 Ghanta",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_419/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀᴊ824 (ᴛelegram)"
+        },
+        {
+          "id": "23",
+          "name": "News18 Bangla",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_286/output/manifest.mpd",
+          "packed_by": "@yu🇻raj824 (teleɢram)"
+        },
+        {
+          "id": "873",
+          "name": "TV9 Bangla",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1149/output/manifest.mpd",
+          "packed_by": "@y🇺vraᴊ824 (ᴛᴇlegrᴀm)"
+        },
+        {
+          "id": "890",
+          "name": "Republic Bangla",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/v1/dash/611d79b11b77e2f571934fd80ca1413453772ac7/vg-sk-323611/index.mpd",
+          "packed_by": "@yuvraj824 (telᴇɢrᴀm)"
+        },
+        {
+          "id": "207",
+          "name": "News Time Bangla",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_287/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀj824 (ᴛᴇleɢrᴀm)"
+        },
+        {
+          "id": "311",
+          "name": "CTVN AKD Plus",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_495/output/manifest.mpd",
+          "packed_by": "@yu🇻raj824 (ᴛᴇlᴇɢrᴀm)"
+        },
+        {
+          "id": "648",
+          "name": "Calcutta News",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_477/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raᴊ824 (tᴇleɢram)"
+        },
+        {
+          "id": "1103",
+          "name": "NKTV BANGLA",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1916/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (ᴛelᴇgram)"
+        },
+        {
+          "id": "1133",
+          "name": "R Plus",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1927/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raᴊ824 (telᴇɢrᴀm)"
+        },
+        {
+          "id": "314",
+          "name": "DD Bangla",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_503/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀj824 (tᴇlegram)"
+        },
+        {
+          "id": "215",
+          "name": "Sangeet Bangla",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_242/output/manifest.mpd",
+          "packed_by": "@yu🇻raj824 (ᴛᴇlᴇgrᴀm)"
+        },
+        {
+          "id": "635",
+          "name": "Zee Telugu HD",
+          "manifest_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_873/output/manifest.mpd",
+          "packed_by": "@yuvraᴊ824 (telᴇɢrᴀm)"
+        },
+        {
+          "id": "250",
+          "name": "Zee Telugu",
+          "manifest_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_415/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (ᴛᴇlegram)"
+        },
+        {
+          "id": "355",
+          "name": "Gemini TV HD",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_553/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀj824 (tᴇlᴇɢrᴀm)"
+        },
+        {
+          "id": "516",
+          "name": "STAR Maa HD",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_609/output/manifest.mpd",
+          "packed_by": "@y🇺vraj824 (tᴇlᴇgram)"
+        },
+        {
+          "id": "956",
+          "name": "STAR Maa HD",
+          "manifest_url": "https://bpprod45catchup.akamaized.net/out/i/1375.mpd",
+          "packed_by": "@y🇺vrᴀᴊ824 (teleɢrᴀm)"
+        },
+        {
+          "id": "359",
+          "name": "ETV HD",
+          "manifest_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_537/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (ᴛelᴇɢrᴀm)"
+        },
+        {
+          "id": "145",
+          "name": "ETV Telugu",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_172/output/manifest.mpd",
+          "packed_by": "@yuvrᴀj824 (tᴇlegram)"
+        },
+        {
+          "id": "361",
+          "name": "Gemini Life",
+          "manifest_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_549/output/manifest.mpd",
+          "packed_by": "@yuvraj824 (ᴛelᴇgrᴀm)"
+        },
+        {
+          "id": "352",
+          "name": "ETV Plus",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_539/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (ᴛᴇleɢrᴀm)"
+        },
+        {
+          "id": "996",
+          "name": "Tata Play Toons+",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1822/output/manifest.mpd",
+          "packed_by": "@yuvrᴀj824 (tᴇlegram)"
+        },
+        {
+          "id": "590",
+          "name": "Telugu Naaptol",
+          "manifest_url": "https://bpprod13catchup.akamaized.net/out/i/6446199.mpd",
+          "packed_by": "@y🇺🇻rᴀj824 (ᴛᴇleɢrᴀm)"
+        },
+        {
+          "id": "585",
+          "name": "Vissa TV",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_820/output/manifest.mpd",
+          "packed_by": "@yuvraj824 (telᴇgrᴀm)"
+        },
+        {
+          "id": "645",
+          "name": "Tata Play English in Telugu",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_880/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀj824 (tᴇlᴇɢrᴀm)"
+        },
+        {
+          "id": "362",
+          "name": "Gemini Movies HD",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_550/output/manifest.mpd",
+          "packed_by": "@yu🇻raj824 (teleɢram)"
+        },
+        {
+          "id": "957",
+          "name": "Star Maa Movies HD",
+          "manifest_url": "https://bpprod44catchup.akamaized.net/out/i/1568869.mpd",
+          "packed_by": "@yu🇻raᴊ824 (ᴛelegrᴀm)"
+        },
+        {
+          "id": "954",
+          "name": "Star Maa Gold",
+          "manifest_url": "https://bpprod39catchup.akamaized.net/out/i/5223418.mpd",
+          "packed_by": "@yu🇻rᴀᴊ824 (ᴛelᴇgrᴀm)"
+        },
+        {
+          "id": "1168",
+          "name": "Tata Play Hollywood Local Telugu",
+          "manifest_url": "https://bpprod13catchup.akamaized.net/out/i/6282183.mpd",
+          "packed_by": "@y🇺vraᴊ824 (telegram)"
+        },
+        {
+          "id": "636",
+          "name": "Zee Cinemalu HD",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_871/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (telᴇɢrᴀm)"
+        },
+        {
+          "id": "252",
+          "name": "Zee Cinemalu",
+          "manifest_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_416/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (tᴇleɢram)"
+        },
+        {
+          "id": "128",
+          "name": "ETV Cinema",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_227/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀᴊ824 (telᴇɢrᴀm)"
+        },
+        {
+          "id": "1073",
+          "name": "Tata Play Telugu Classics",
+          "manifest_url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1887/output/manifest.mpd",
+          "packed_by": "@yuvraj824 (ᴛelegrᴀm)"
+        },
+        {
+          "id": "268",
+          "name": "ETV Life",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_538/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raj824 (tᴇleɢram)"
+        },
+        {
+          "id": "358",
+          "name": "ETV Abhiruchi",
+          "manifest_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_536/output/manifest.mpd",
+          "packed_by": "@y🇺vraᴊ824 (telegrᴀm)"
+        },
+        {
+          "id": "596",
+          "name": "Sakshi TV",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_701/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀj824 (ᴛᴇleɢram)"
+        },
+        {
+          "id": "146",
+          "name": "ETV Andhra Pradesh",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_226/output/manifest.mpd",
+          "packed_by": "@y🇺vraᴊ824 (telegram)"
+        },
+        {
+          "id": "320",
+          "name": "TV5 News",
+          "manifest_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_802/output/manifest.mpd",
+          "packed_by": "@yuvraᴊ824 (telegram)"
+        },
+        {
+          "id": "11",
+          "name": "TV9 Telugu",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_290/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀᴊ824 (ᴛelegram)"
+        },
+        {
+          "id": "160",
+          "name": "NTV Telugu",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_297/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raᴊ824 (tᴇlᴇɢram)"
+        },
+        {
+          "id": "225",
+          "name": "ABN Andhra Jyothy",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_295/output/manifest.mpd",
+          "packed_by": "@yuvrᴀᴊ824 (ᴛᴇlᴇɢram)"
+        },
+        {
+          "id": "49",
+          "name": "T News",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_298/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀᴊ824 (tᴇlegrᴀm)"
+        },
+        {
+          "id": "274",
+          "name": "V6 Telugu",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_810/output/manifest.mpd",
+          "packed_by": "@yuvrᴀᴊ824 (ᴛᴇlᴇgram)"
+        },
+        {
+          "id": "83",
+          "name": "ETV Telangana",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_296/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (ᴛᴇlᴇgrᴀm)"
+        },
+        {
+          "id": "349",
+          "name": "HM TV",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_566/output/manifest.mpd",
+          "packed_by": "@yuvrᴀj824 (ᴛᴇleɢram)"
+        },
+        {
+          "id": "430",
+          "name": "Raj News Telugu",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_690/output/manifest.mpd",
+          "packed_by": "@yu🇻raj824 (teleɢrᴀm)"
+        },
+        {
+          "id": "266",
+          "name": "10 TV",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_433/output/manifest.mpd",
+          "packed_by": "@y🇺vraj824 (ᴛelᴇgrᴀm)"
+        },
+        {
+          "id": "1027",
+          "name": "Swatantra TV",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1849/output/manifest.mpd",
+          "packed_by": "@yuvraᴊ824 (tᴇlᴇɢram)"
+        },
+        {
+          "id": "774",
+          "name": "4tv News",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_970/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀᴊ824 (ᴛelᴇgram)"
+        },
+        {
+          "id": "1099",
+          "name": "CHANNEL 36- UP/UK",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1910/output/manifest.mpd",
+          "packed_by": "@yuvrᴀj824 (ᴛᴇleɢrᴀm)"
+        },
+        {
+          "id": "1100",
+          "name": "BIG TV Telugu",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1909/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀᴊ824 (telᴇgram)"
+        },
+        {
+          "id": "1118",
+          "name": "News 360",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1920/output/manifest.mpd",
+          "packed_by": "@y🇺vraj824 (ᴛelᴇɢrᴀm)"
+        },
+        {
+          "id": "1151",
+          "name": "MAHAA NEWS",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1923/output/manifest.mpd",
+          "packed_by": "@y🇺vraᴊ824 (ᴛᴇlegram)"
+        },
+        {
+          "id": "1194",
+          "name": "BRK News",
+          "manifest_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1968/output/manifest.mpd",
+          "packed_by": "@y🇺vraj824 (ᴛᴇlegrᴀm)"
+        },
+        {
+          "id": "1288",
+          "name": "Zee Telugu News",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2065/output/manifest.mpd",
+          "packed_by": "@yu🇻raᴊ824 (telᴇgram)"
+        },
+        {
+          "id": "337",
+          "name": "DD Saptagiri",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_523/output/manifest.mpd",
+          "packed_by": "@yuvrᴀᴊ824 (telᴇɢrᴀm)"
+        },
+        {
+          "id": "548",
+          "name": "DD Yadagiri",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_526/output/manifest.mpd",
+          "packed_by": "@y🇺vraj824 (ᴛᴇleɢram)"
+        },
+        {
+          "id": "429",
+          "name": "Raj Musix Telugu",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_687/output/manifest.mpd",
+          "packed_by": "@yuvrᴀᴊ824 (ᴛelᴇɢrᴀm)"
+        },
+        {
+          "id": "290",
+          "name": "Bhakti TV",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_474/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raj824 (telegram)"
+        },
+        {
+          "id": "445",
+          "name": "Shubhavaarta TV",
+          "manifest_url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_716/output/manifest.mpd",
+          "packed_by": "@yuvrᴀj824 (tᴇleɢrᴀm)"
+        },
+        {
+          "id": "285",
+          "name": "Aradana TV",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_460/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (ᴛᴇlᴇɢram)"
+        },
+        {
+          "id": "351",
+          "name": "Swara Sagar",
+          "manifest_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_533/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀj824 (telᴇgrᴀm)"
+        },
+        {
+          "id": "630",
+          "name": "Hindu Dharmam",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_864/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀj824 (ᴛeleɢram)"
+        },
+        {
+          "id": "521",
+          "name": "Sun TV HD",
+          "manifest_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_760/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀj824 (ᴛeleɢrᴀm)"
+        },
+        {
+          "id": "1260",
+          "name": "Tata Play Tamil Classics",
+          "manifest_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2047/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (tᴇlᴇgram)"
+        },
+        {
+          "id": "474",
+          "name": "Sun Life",
+          "manifest_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_756/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀᴊ824 (ᴛᴇlᴇgrᴀm)"
+        },
+        {
+          "id": "496",
+          "name": "Star Vijay HD",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_818/output/manifest.mpd",
+          "packed_by": "@yu🇻raᴊ824 (telᴇgram)"
+        },
+        {
+          "id": "1167",
+          "name": "Tata Play Hollywood Local Tamil",
+          "manifest_url": "https://bpprod13catchup.akamaized.net/out/i/6282177.mpd",
+          "packed_by": "@y🇺vraᴊ824 (ᴛelᴇɢram)"
+        },
+        {
+          "id": "608",
+          "name": "Zee Tamil HD",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_842/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raᴊ824 (tᴇleɢram)"
+        },
+        {
+          "id": "257",
+          "name": "Zee Tamil",
+          "manifest_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_429/output/manifest.mpd",
+          "packed_by": "@yuvrᴀᴊ824 (ᴛᴇleɢrᴀm)"
+        },
+        {
+          "id": "674",
+          "name": "Colors Tamil HD",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_916/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raj824 (telᴇɢrᴀm)"
+        },
+        {
+          "id": "418",
+          "name": "Colors Tamil",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_665/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀᴊ824 (tᴇlᴇgram)"
+        },
+        {
+          "id": "708",
+          "name": "Jaya TV HD",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_947/output/manifest.mpd",
+          "packed_by": "@yuvraᴊ824 (teleɢram)"
+        },
+        {
+          "id": "200",
+          "name": "Kalaignar TV",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_344/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀj824 (ᴛelegram)"
+        },
+        {
+          "id": "997",
+          "name": "Tata Play Toons+",
+          "manifest_url": "https://bpprod13catchup.akamaized.net/out/i/5615195.mpd",
+          "packed_by": "@y🇺vraj824 (ᴛᴇlᴇgram)"
+        },
+        {
+          "id": "439",
+          "name": "Raj TV",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_691/output/manifest.mpd",
+          "packed_by": "@y🇺vraj824 (tᴇlegram)"
+        },
+        {
+          "id": "99",
+          "name": "D Tamil",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_234/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀᴊ824 (teleɢram)"
+        },
+        {
+          "id": "426",
+          "name": "Raj Digital Plus",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_683/output/manifest.mpd",
+          "packed_by": "@yuvrᴀᴊ824 (tᴇlᴇgram)"
+        },
+        {
+          "id": "37",
+          "name": "Mega TV",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_347/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (tᴇlegram)"
+        },
+        {
+          "id": "723",
+          "name": "Tamil Naaptol",
+          "manifest_url": "https://bpprod14catchup.akamaized.net/out/i/8025864.mpd",
+          "packed_by": "@y🇺🇻raj824 (ᴛᴇlegram)"
+        },
+        {
+          "id": "499",
+          "name": "Vasanth TV",
+          "manifest_url": "https://bpprod13catchup.akamaized.net/out/i/6472180.mpd",
+          "packed_by": "@y🇺🇻raᴊ824 (ᴛᴇlᴇɢrᴀm)"
+        },
+        {
+          "id": "611",
+          "name": "Sirippoli",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_717/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀj824 (ᴛelegrᴀm)"
+        },
+        {
+          "id": "272",
+          "name": "Polimer TV",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_674/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀᴊ824 (tᴇleɢram)"
+        },
+        {
+          "id": "392",
+          "name": "Makkal TV",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_617/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (ᴛᴇlegrᴀm)"
+        },
+        {
+          "id": "659",
+          "name": "Vendhar TV",
+          "manifest_url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_815/output/manifest.mpd",
+          "packed_by": "@y🇺vraj824 (ᴛᴇlᴇgrᴀm)"
+        },
+        {
+          "id": "1322",
+          "name": "Thanthi One",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2090/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀᴊ824 (telegrᴀm)"
+        },
+        {
+          "id": "380",
+          "name": "KTV HD",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_600/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (ᴛelegram)"
+        },
+        {
+          "id": "201",
+          "name": "J Movies",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_345/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (ᴛᴇlᴇɢrᴀm)"
+        },
+        {
+          "id": "1182",
+          "name": "Zee Thirai HD",
+          "manifest_url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1962/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀᴊ824 (telegrᴀm)"
+        },
+        {
+          "id": "797",
+          "name": "Zee Thirai",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_989/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (tᴇleɢram)"
+        },
+        {
+          "id": "444",
+          "name": "Travelxp Tamil",
+          "manifest_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_789/output/manifest.mpd",
+          "packed_by": "@yu🇻raj824 (ᴛelᴇgrᴀm)"
+        },
+        {
+          "id": "220",
+          "name": "Puthiya Thalaimurai",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_233/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raj824 (telegram)"
+        },
+        {
+          "id": "524",
+          "name": "Thanthi TV",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_778/output/manifest.mpd",
+          "packed_by": "@y🇺vraᴊ824 (telegram)"
+        },
+        {
+          "id": "198",
+          "name": "Jaya Plus",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_346/output/manifest.mpd",
+          "packed_by": "@yuvraj824 (ᴛeleɢrᴀm)"
+        },
+        {
+          "id": "509",
+          "name": "Polimer News",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_673/output/manifest.mpd",
+          "packed_by": "@yu🇻raj824 (ᴛᴇlᴇɢrᴀm)"
+        },
+        {
+          "id": "58",
+          "name": "News18 Tamil Nadu",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_373/output/manifest.mpd",
+          "packed_by": "@yu🇻raᴊ824 (ᴛelegram)"
+        },
+        {
+          "id": "44",
+          "name": "Seithigal TV",
+          "manifest_url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_349/output/manifest.mpd",
+          "packed_by": "@y🇺vraj824 (ᴛelᴇgrᴀm)"
+        },
+        {
+          "id": "525",
+          "name": "Raj News Tamil",
+          "manifest_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_372/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (ᴛeleɢrᴀm)"
+        },
+        {
+          "id": "455",
+          "name": "Sathiyam TV",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_711/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (tᴇleɢrᴀm)"
+        },
+        {
+          "id": "391",
+          "name": "MalaiMurasu Seithigal",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_618/output/manifest.mpd",
+          "packed_by": "@yu🇻raj824 (telegrᴀm)"
+        },
+        {
+          "id": "702",
+          "name": "News J",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_943/output/manifest.mpd",
+          "packed_by": "@yu🇻raj824 (telegrᴀm)"
+        },
+        {
+          "id": "968",
+          "name": "News Tamil 24x7",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1794/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀᴊ824 (ᴛᴇlegrᴀm)"
+        },
+        {
+          "id": "1317",
+          "name": "Tamil Janam",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2085/output/manifest.mpd",
+          "packed_by": "@yuvrᴀj824 (tᴇleɢram)"
+        },
+        {
+          "id": "199",
+          "name": "Jaya Max",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_350/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀᴊ824 (ᴛelᴇgram)"
+        },
+        {
+          "id": "425",
+          "name": "Raj Musix",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_684/output/manifest.mpd",
+          "packed_by": "@yuvrᴀj824 (tᴇlᴇgrᴀm)"
+        },
+        {
+          "id": "647",
+          "name": "Isaiaruvi",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_578/output/manifest.mpd",
+          "packed_by": "@yu🇻raj824 (telᴇɢrᴀm)"
+        },
+        {
+          "id": "411",
+          "name": "Murasu TV",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_644/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀj824 (tᴇleɢrᴀm)"
+        },
+        {
+          "id": "400",
+          "name": "Mega Musiq",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_624/output/manifest.mpd",
+          "packed_by": "@yu🇻raj824 (ᴛeleɢrᴀm)"
+        },
+        {
+          "id": "434",
+          "name": "Jothi TV",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_699/output/manifest.mpd",
+          "packed_by": "@yuvrᴀᴊ824 (tᴇleɢram)"
+        },
+        {
+          "id": "390",
+          "name": "Madha TV",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_614/output/manifest.mpd",
+          "packed_by": "@y🇺vraᴊ824 (tᴇlᴇɢram)"
+        },
+        {
+          "id": "282",
+          "name": "Angel TV",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_456/output/manifest.mpd",
+          "packed_by": "@yuvraᴊ824 (ᴛelᴇgrᴀm)"
+        },
+        {
+          "id": "408",
+          "name": "Nambikkai TV",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_651/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raᴊ824 (ᴛelᴇɢram)"
+        },
+        {
+          "id": "490",
+          "name": "SVBC 2",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_771/output/manifest.mpd",
+          "packed_by": "@y🇺vraj824 (ᴛeleɢrᴀm)"
+        },
+        {
+          "id": "334",
+          "name": "DD Tamil",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_519/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀᴊ824 (ᴛᴇlegram)"
+        },
+        {
+          "id": "492",
+          "name": "Udaya TV HD",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_806/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (telᴇgrᴀm)"
+        },
+        {
+          "id": "612",
+          "name": "Colors Kannada HD",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_490/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (ᴛᴇlᴇgrᴀm)"
+        },
+        {
+          "id": "108",
+          "name": "Colors Kannada",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_157/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀᴊ824 (ᴛeleɢram)"
+        },
+        {
+          "id": "467",
+          "name": "Star Suvarna HD",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_746/output/manifest.mpd",
+          "packed_by": "@yu🇻raᴊ824 (ᴛᴇleɢrᴀm)"
+        },
+        {
+          "id": "675",
+          "name": "Zee Kannada HD",
+          "manifest_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_917/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (ᴛᴇleɢrᴀm)"
+        },
+        {
+          "id": "256",
+          "name": "Zee Kannada",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_423/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raj824 (ᴛelᴇgrᴀm)"
+        },
+        {
+          "id": "533",
+          "name": "Colors SUPER",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_492/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀj824 (ᴛelᴇgrᴀm)"
+        },
+        {
+          "id": "566",
+          "name": "Kannada Naaptol",
+          "manifest_url": "https://bpprod14catchup.akamaized.net/out/i/8025258.mpd",
+          "packed_by": "@yuvrᴀj824 (ᴛelegrᴀm)"
+        },
+        {
+          "id": "940",
+          "name": "SIRIKANNADA Alltime",
+          "manifest_url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1771/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (ᴛᴇlᴇgram)"
+        },
+        {
+          "id": "231",
+          "name": "Udaya Movies",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_228/output/manifest.mpd",
+          "packed_by": "@yuvrᴀᴊ824 (tᴇlegram)"
+        },
+        {
+          "id": "540",
+          "name": "Star Suvarna Plus",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_767/output/manifest.mpd",
+          "packed_by": "@y🇺vraᴊ824 (ᴛᴇlegram)"
+        },
+        {
+          "id": "667",
+          "name": "Colors Kannada Cinema",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_900/output/manifest.mpd",
+          "packed_by": "@y🇺vraj824 (telᴇgrᴀm)"
+        },
+        {
+          "id": "1181",
+          "name": "Zee Picchar HD",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1960/output/manifest.mpd",
+          "packed_by": "@yuvraj824 (ᴛelegrᴀm)"
+        },
+        {
+          "id": "810",
+          "name": "Zee Picchar",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1000/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (telᴇgram)"
+        },
+        {
+          "id": "661",
+          "name": "Public Movies",
+          "manifest_url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_894/output/manifest.mpd",
+          "packed_by": "@y🇺vraj824 (ᴛᴇlᴇɢrᴀm)"
+        },
+        {
+          "id": "196",
+          "name": "Kasthuri",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_314/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀj824 (ᴛelᴇgram)"
+        },
+        {
+          "id": "152",
+          "name": "TV9 Kannada",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_317/output/manifest.mpd",
+          "packed_by": "@y🇺vraᴊ824 (tᴇlᴇɢrᴀm)"
+        },
+        {
+          "id": "85",
+          "name": "News18 Kannada",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_229/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raᴊ824 (ᴛelegram)"
+        },
+        {
+          "id": "33",
+          "name": "Public TV",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_316/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀj824 (ᴛᴇlᴇgram)"
+        },
+        {
+          "id": "555",
+          "name": "Asianet Suvarna News",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_766/output/manifest.mpd",
+          "packed_by": "@y🇺vraᴊ824 (tᴇlᴇgrᴀm)"
+        },
+        {
+          "id": "629",
+          "name": "TV5 Kannada",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_863/output/manifest.mpd",
+          "packed_by": "@yuvraj824 (tᴇlᴇɢrᴀm)"
+        },
+        {
+          "id": "510",
+          "name": "Raj News Kannada",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_688/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (teleɢrᴀm)"
+        },
+        {
+          "id": "342",
+          "name": "R Kannada",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_529/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raᴊ824 (ᴛᴇlᴇɢram)"
+        },
+        {
+          "id": "824",
+          "name": "Power TV",
+          "manifest_url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1119/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀj824 (tᴇlᴇɢrᴀm)"
+        },
+        {
+          "id": "913",
+          "name": "News 1st Kannada",
+          "manifest_url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1320/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raᴊ824 (ᴛᴇlᴇɢrᴀm)"
+        },
+        {
+          "id": "1077",
+          "name": "Vistara News",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1891/output/manifest.mpd",
+          "packed_by": "@yu🇻raj824 (telᴇgrᴀm)"
+        },
+        {
+          "id": "1116",
+          "name": "Prajaa TV",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1919/output/manifest.mpd",
+          "packed_by": "@yu🇻raᴊ824 (ᴛelegram)"
+        },
+        {
+          "id": "1287",
+          "name": "Zee Kannada News",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2064/output/manifest.mpd",
+          "packed_by": "@yu🇻raᴊ824 (tᴇlᴇgram)"
+        },
+        {
+          "id": "321",
+          "name": "DD Chandana",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_506/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀᴊ824 (tᴇlegram)"
+        },
+        {
+          "id": "427",
+          "name": "Raj Musix Kannada",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_685/output/manifest.mpd",
+          "packed_by": "@y🇺vraj824 (ᴛᴇleɢrᴀm)"
+        },
+        {
+          "id": "424",
+          "name": "Public Music",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_679/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (tᴇlᴇgram)"
+        },
+        {
+          "id": "477",
+          "name": "Sri Sankara TV",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_728/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (telᴇgrᴀm)"
+        },
+        {
+          "id": "660",
+          "name": "Ayush TV",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_893/output/manifest.mpd",
+          "packed_by": "@yuvrᴀj824 (teleɢram)"
+        },
+        {
+          "id": "971",
+          "name": "SVBC 3",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1798/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀᴊ824 (ᴛᴇlᴇɢrᴀm)"
+        },
+        {
+          "id": "107",
+          "name": "Colors Gujarati",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_211/output/manifest.mpd",
+          "packed_by": "@yu🇻raᴊ824 (ᴛelᴇgrᴀm)"
+        },
+        {
+          "id": "772",
+          "name": "Tata Play Gujarati Cinema",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_967/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀᴊ824 (ᴛeleɢram)"
+        },
+        {
+          "id": "692",
+          "name": "Colors Gujarati Cinema",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_934/output/manifest.mpd",
+          "packed_by": "@yuvrᴀᴊ824 (tᴇlegram)"
+        },
+        {
+          "id": "489",
+          "name": "TV9 Gujarati",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_803/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀᴊ824 (ᴛᴇleɢrᴀm)"
+        },
+        {
+          "id": "552",
+          "name": "Gujarat Samachar TV",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_292/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (telᴇgrᴀm)"
+        },
+        {
+          "id": "586",
+          "name": "Sandesh News",
+          "manifest_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_712/output/manifest.mpd",
+          "packed_by": "@y🇺vraj824 (ᴛelᴇgrᴀm)"
+        },
+        {
+          "id": "303",
+          "name": "CNBC Bajaar",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_487/output/manifest.mpd",
+          "packed_by": "@yuvrᴀᴊ824 (tᴇleɢrᴀm)"
+        },
+        {
+          "id": "6",
+          "name": "News18 Gujarati",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_291/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀᴊ824 (telᴇgrᴀm)"
+        },
+        {
+          "id": "73",
+          "name": "ABP Asmita",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_378/output/manifest.mpd",
+          "packed_by": "@yuvraᴊ824 (ᴛᴇlegrᴀm)"
+        },
+        {
+          "id": "497",
+          "name": "VTV News",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_821/output/manifest.mpd",
+          "packed_by": "@yu🇻raj824 (telegrᴀm)"
+        },
+        {
+          "id": "507",
+          "name": "Zee 24 Kalak",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_833/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀᴊ824 (ᴛelᴇɢram)"
+        },
+        {
+          "id": "654",
+          "name": "India News Gujarat",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_987/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀj824 (tᴇlᴇɢram)"
+        },
+        {
+          "id": "974",
+          "name": "1st Gujarat",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1803/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (teleɢram)"
+        },
+        {
+          "id": "1087",
+          "name": "PRAVEG",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1899/output/manifest.mpd",
+          "packed_by": "@y🇺vraᴊ824 (ᴛᴇlᴇgrᴀm)"
+        },
+        {
+          "id": "1286",
+          "name": "News Capital",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2063/output/manifest.mpd",
+          "packed_by": "@y🇺vraᴊ824 (teleɢram)"
+        },
+        {
+          "id": "323",
+          "name": "DD Girnar",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_507/output/manifest.mpd",
+          "packed_by": "@yuvraj824 (ᴛᴇlᴇgrᴀm)"
+        },
+        {
+          "id": "1097",
+          "name": "Aastha Gujarati",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1908/output/manifest.mpd",
+          "packed_by": "@yu🇻raj824 (ᴛeleɢram)"
+        },
+        {
+          "id": "115",
+          "name": "Colors Oriya",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_215/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raᴊ824 (ᴛᴇlᴇɢram)"
+        },
+        {
+          "id": "597",
+          "name": "Zee Sarthak",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_709/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀj824 (ᴛelᴇgram)"
+        },
+        {
+          "id": "978",
+          "name": "Sidharth TV",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1808/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀj824 (ᴛelᴇɢram)"
+        },
+        {
+          "id": "421",
+          "name": "Peppers TV",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_671/output/manifest.mpd",
+          "packed_by": "@yu🇻raj824 (ᴛᴇleɢrᴀm)"
+        },
+        {
+          "id": "1170",
+          "name": "Sidharth GOLD",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1952/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀj824 (ᴛelegram)"
+        },
+        {
+          "id": "41",
+          "name": "News18 Odia",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_337/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (telegram)"
+        },
+        {
+          "id": "448",
+          "name": "News7",
+          "manifest_url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_676/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀᴊ824 (telegram)"
+        },
+        {
+          "id": "805",
+          "name": "Nandighosha TV",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_993/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀj824 (ᴛᴇlᴇgrᴀm)"
+        },
+        {
+          "id": "907",
+          "name": "Argus News",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1314/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀᴊ824 (tᴇlᴇgrᴀm)"
+        },
+        {
+          "id": "333",
+          "name": "DD Odia",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_518/output/manifest.mpd",
+          "packed_by": "@yuvraᴊ824 (ᴛᴇleɢrᴀm)"
+        },
+        {
+          "id": "1169",
+          "name": "Jay Jagannath",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1951/output/manifest.mpd",
+          "packed_by": "@yu🇻raj824 (tᴇleɢrᴀm)"
+        },
+        {
+          "id": "230",
+          "name": "Surya TV",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_212/output/manifest.mpd",
+          "packed_by": "@y🇺vraᴊ824 (ᴛᴇlᴇgrᴀm)"
+        },
+        {
+          "id": "292",
+          "name": "Asianet HD",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_464/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (ᴛelᴇgrᴀm)"
+        },
+        {
+          "id": "953",
+          "name": "Asianet Plus",
+          "manifest_url": "https://bpprod43catchup.akamaized.net/out/i/2034251.mpd",
+          "packed_by": "@y🇺vrᴀj824 (ᴛᴇlᴇgrᴀm)"
+        },
+        {
+          "id": "294",
+          "name": "Asianet Plus",
+          "manifest_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_467/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raj824 (ᴛᴇlegrᴀm)"
+        },
+        {
+          "id": "694",
+          "name": "Zee Keralam HD",
+          "manifest_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_933/output/manifest.mpd",
+          "packed_by": "@y🇺vraj824 (telegrᴀm)"
+        },
+        {
+          "id": "684",
+          "name": "Zee Keralam",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_926/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (tᴇlegram)"
+        },
+        {
+          "id": "10",
+          "name": "Flowers",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_318/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (telᴇɢrᴀm)"
+        },
+        {
+          "id": "395",
+          "name": "Mazhavil Manorama HD",
+          "manifest_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_621/output/manifest.mpd",
+          "packed_by": "@yuvrᴀj824 (tᴇlegrᴀm)"
+        },
+        {
+          "id": "31",
+          "name": "Mazhavil Manorama",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_320/output/manifest.mpd",
+          "packed_by": "@yu🇻raᴊ824 (tᴇlᴇgrᴀm)"
+        },
+        {
+          "id": "25",
+          "name": "Kairali TV",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_319/output/manifest.mpd",
+          "packed_by": "@yuvrᴀj824 (tᴇleɢram)"
+        },
+        {
+          "id": "553",
+          "name": "We TV",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_322/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (teleɢram)"
+        },
+        {
+          "id": "178",
+          "name": "Amrita TV",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_325/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀᴊ824 (ᴛeleɢrᴀm)"
+        },
+        {
+          "id": "229",
+          "name": "Surya Movies",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_243/output/manifest.mpd",
+          "packed_by": "@y🇺vraᴊ824 (ᴛeleɢrᴀm)"
+        },
+        {
+          "id": "293",
+          "name": "Asianet Movies",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_465/output/manifest.mpd",
+          "packed_by": "@yu🇻raᴊ824 (ᴛᴇleɢrᴀm)"
+        },
+        {
+          "id": "933",
+          "name": "Asianet Movies",
+          "manifest_url": "https://bpprod31catchup.akamaized.net/out/i/29273.mpd",
+          "packed_by": "@y🇺vraj824 (telᴇgram)"
+        },
+        {
+          "id": "436",
+          "name": "Safari TV",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_698/output/manifest.mpd",
+          "packed_by": "@yu🇻raᴊ824 (tᴇlegram)"
+        },
+        {
+          "id": "532",
+          "name": "Asianet News",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_466/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (telegrᴀm)"
+        },
+        {
+          "id": "66",
+          "name": "News18 Kerala",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_374/output/manifest.mpd",
+          "packed_by": "@yuvraj824 (ᴛᴇleɢrᴀm)"
+        },
+        {
+          "id": "87",
+          "name": "Manorama News",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_244/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raᴊ824 (ᴛelegram)"
+        },
+        {
+          "id": "394",
+          "name": "Mathrubhumi News",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_620/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀᴊ824 (ᴛᴇlᴇgram)"
+        },
+        {
+          "id": "211",
+          "name": "Kairali News",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_323/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (tᴇlegrᴀm)"
+        },
+        {
+          "id": "370",
+          "name": "Jaihind TV",
+          "manifest_url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_581/output/manifest.mpd",
+          "packed_by": "@y🇺vraj824 (ᴛᴇlegrᴀm)"
+        },
+        {
+          "id": "576",
+          "name": "Media One",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_321/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raj824 (ᴛeleɢrᴀm)"
+        },
+        {
+          "id": "270",
+          "name": "Janam TV",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_584/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀᴊ824 (ᴛᴇleɢrᴀm)"
+        },
+        {
+          "id": "428",
+          "name": "Raj News Malayalam",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_689/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (tᴇlᴇgram)"
+        },
+        {
+          "id": "799",
+          "name": "Twenty Four",
+          "manifest_url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_990/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (telegrᴀm)"
+        },
+        {
+          "id": "1124",
+          "name": "Reporter TV",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1922/output/manifest.mpd",
+          "packed_by": "@y🇺vraᴊ824 (ᴛᴇlᴇɢram)"
+        },
+        {
+          "id": "1313",
+          "name": "SHEKINAH",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2079/output/manifest.mpd",
+          "packed_by": "@yuvraᴊ824 (ᴛᴇlᴇɢram)"
+        },
+        {
+          "id": "541",
+          "name": "Raj Musix Malayalam",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_686/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raᴊ824 (telᴇɢram)"
+        },
+        {
+          "id": "269",
+          "name": "Goodness",
+          "manifest_url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_555/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀᴊ824 (telᴇgram)"
+        },
+        {
+          "id": "356",
+          "name": "God TV",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_554/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raj824 (telᴇɢram)"
+        },
+        {
+          "id": "457",
+          "name": "Shalom TV",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_714/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raᴊ824 (telᴇɢrᴀm)"
+        },
+        {
+          "id": "348",
+          "name": "Harvest TV 24x7",
+          "manifest_url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_559/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raj824 (telegrᴀm)"
+        },
+        {
+          "id": "571",
+          "name": "Tata Play Punjab De Rang",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_799/output/manifest.mpd",
+          "packed_by": "@yuvraj824 (ᴛelegram)"
+        },
+        {
+          "id": "796",
+          "name": "Zee Punjabi",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_988/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (ᴛᴇlegram)"
+        },
+        {
+          "id": "122",
+          "name": "PTC Punjabi",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_216/output/manifest.mpd",
+          "packed_by": "@yuvraj824 (ᴛᴇlᴇgram)"
+        },
+        {
+          "id": "399",
+          "name": "MH One",
+          "manifest_url": "https://bpprod14catchup.akamaized.net/out/i/8025875.mpd",
+          "packed_by": "@yuvrᴀj824 (telᴇɢrᴀm)"
+        },
+        {
+          "id": "998",
+          "name": "Tata Play Toons+",
+          "manifest_url": "https://bpprod13catchup.akamaized.net/out/i/5616001.mpd",
+          "packed_by": "@y🇺vraj824 (ᴛᴇleɢrᴀm)"
+        },
+        {
+          "id": "1083",
+          "name": "TABBAR HITS",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1895/output/manifest.mpd",
+          "packed_by": "@yu🇻raj824 (ᴛᴇlᴇgrᴀm)"
+        },
+        {
+          "id": "624",
+          "name": "Pitaara TV",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_855/output/manifest.mpd",
+          "packed_by": "@yuvraᴊ824 (tᴇlegrᴀm)"
+        },
+        {
+          "id": "794",
+          "name": "PTC Punjabi Gold",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_985/output/manifest.mpd",
+          "packed_by": "@y🇺vraj824 (telᴇɢram)"
+        },
+        {
+          "id": "580",
+          "name": "Zee Punjab Haryana Himachal Pradesh",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_838/output/manifest.mpd",
+          "packed_by": "@y🇺vraj824 (ᴛelᴇgrᴀm)"
+        },
+        {
+          "id": "91",
+          "name": "PTC News",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_246/output/manifest.mpd",
+          "packed_by": "@yuvraᴊ824 (ᴛelᴇgram)"
+        },
+        {
+          "id": "232",
+          "name": "News18 Punjab Haryana",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_313/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀᴊ824 (telᴇgram)"
+        },
+        {
+          "id": "366",
+          "name": "India News Punjab",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_573/output/manifest.mpd",
+          "packed_by": "@yuvraj824 (telegram)"
+        },
+        {
+          "id": "13",
+          "name": "India News Haryana",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_280/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raj824 (teleɢrᴀm)"
+        },
+        {
+          "id": "401",
+          "name": "MH One News",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_626/output/manifest.mpd",
+          "packed_by": "@yuvraᴊ824 (telᴇɢrᴀm)"
+        },
+        {
+          "id": "787",
+          "name": "ANB NEWS",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_979/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (tᴇlᴇgram)"
+        },
+        {
+          "id": "793",
+          "name": "Living India News",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_984/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raᴊ824 (ᴛelegram)"
+        },
+        {
+          "id": "972",
+          "name": "Khabar Fast",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1801/output/manifest.mpd",
+          "packed_by": "@yu🇻raᴊ824 (ᴛᴇlᴇɢram)"
+        },
+        {
+          "id": "262",
+          "name": "Zee Delhi NCR Haryana",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_428/output/manifest.mpd",
+          "packed_by": "@yu🇻raj824 (tᴇlᴇgram)"
+        },
+        {
+          "id": "989",
+          "name": "STV Haryana News",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1817/output/manifest.mpd",
+          "packed_by": "@yuvraᴊ824 (ᴛeleɢram)"
+        },
+        {
+          "id": "1078",
+          "name": "Daily Post Punjab Haryana Himachal",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1892/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀj824 (ᴛelegram)"
+        },
+        {
+          "id": "1085",
+          "name": "WPN World Punjabi TV",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1898/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀᴊ824 (ᴛᴇlᴇgrᴀm)"
+        },
+        {
+          "id": "335",
+          "name": "DD Punjabi",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_520/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (ᴛᴇlᴇɢram)"
+        },
+        {
+          "id": "92",
+          "name": "PTC Chak De",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_245/output/manifest.mpd",
+          "packed_by": "@yu🇻raj824 (ᴛᴇlᴇɢram)"
+        },
+        {
+          "id": "922",
+          "name": "PTC Music",
+          "manifest_url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1322/output/manifest.mpd",
+          "packed_by": "@yuvrᴀᴊ824 (tᴇlᴇɢram)"
+        },
+        {
+          "id": "936",
+          "name": "Punjabi Hits",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1334/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀj824 (tᴇlegrᴀm)"
+        },
+        {
+          "id": "193",
+          "name": "Chardikla Time TV",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_339/output/manifest.mpd",
+          "packed_by": "@y🇺vraᴊ824 (ᴛᴇlᴇɢram)"
+        },
+        {
+          "id": "773",
+          "name": "PTC Simran",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_968/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀj824 (tᴇleɢrᴀm)"
+        },
+        {
+          "id": "567",
+          "name": "Nepal 1",
+          "manifest_url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_657/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀj824 (ᴛᴇlᴇɢram)"
+        },
+        {
+          "id": "101",
+          "name": "Rang",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_214/output/manifest.mpd",
+          "packed_by": "@yuvraj824 (ᴛᴇlᴇgram)"
+        },
+        {
+          "id": "214",
+          "name": "Rengoni TV",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_332/output/manifest.mpd",
+          "packed_by": "@yuvraj824 (ᴛᴇleɢrᴀm)"
+        },
+        {
+          "id": "1082",
+          "name": "Tata Play Asomiya Monoronjan",
+          "manifest_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1896/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raᴊ824 (ᴛᴇleɢrᴀm)"
+        },
+        {
+          "id": "368",
+          "name": "Indradhanu",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_576/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀᴊ824 (ᴛelᴇgram)"
+        },
+        {
+          "id": "47",
+          "name": "Jonack TV",
+          "manifest_url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_371/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raᴊ824 (tᴇlᴇɢram)"
+        },
+        {
+          "id": "353",
+          "name": "DY 365",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_534/output/manifest.mpd",
+          "packed_by": "@yuvraj824 (ᴛeleɢram)"
+        },
+        {
+          "id": "68",
+          "name": "News18 Assam North East",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_375/output/manifest.mpd",
+          "packed_by": "@yuvrᴀᴊ824 (ᴛᴇlegrᴀm)"
+        },
+        {
+          "id": "226",
+          "name": "NEWS LIVE",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_334/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (telᴇgram)"
+        },
+        {
+          "id": "221",
+          "name": "Protidin Time",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_335/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀᴊ824 (telegram)"
+        },
+        {
+          "id": "423",
+          "name": "Prag News",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_675/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀj824 (ᴛeleɢram)"
+        },
+        {
+          "id": "417",
+          "name": "North East Live",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_664/output/manifest.mpd",
+          "packed_by": "@yuvrᴀᴊ824 (ᴛᴇleɢram)"
+        },
+        {
+          "id": "894",
+          "name": "NKTV PLUS",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1303/output/manifest.mpd",
+          "packed_by": "@yu🇻raᴊ824 (ᴛelᴇgram)"
+        },
+        {
+          "id": "898",
+          "name": "Hornbill TV",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1308/output/manifest.mpd",
+          "packed_by": "@y🇺🇻raj824 (ᴛᴇlᴇgram)"
+        },
+        {
+          "id": "977",
+          "name": "ND24-Newsdaily.in",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1806/output/manifest.mpd",
+          "packed_by": "@yuvrᴀj824 (ᴛelegram)"
+        },
+        {
+          "id": "1076",
+          "name": "NB News",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1890/output/manifest.mpd",
+          "packed_by": "@yuvraj824 (ᴛᴇleɢram)"
+        },
+        {
+          "id": "1115",
+          "name": "Pratham Khabar 24x7",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1918/output/manifest.mpd",
+          "packed_by": "@yu🇻rᴀj824 (ᴛᴇleɢram)"
+        },
+        {
+          "id": "1268",
+          "name": "NE NEWS",
+          "manifest_url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2050/output/manifest.mpd",
+          "packed_by": "@yuvraᴊ824 (ᴛelᴇɢram)"
+        },
+        {
+          "id": "331",
+          "name": "DD North East",
+          "manifest_url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_516/output/manifest.mpd",
+          "packed_by": "@yuvrᴀᴊ824 (tᴇleɢram)"
+        },
+        {
+          "id": "325",
+          "name": "DD Kashir",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_509/output/manifest.mpd",
+          "packed_by": "@yu🇻raj824 (ᴛelᴇgrᴀm)"
+        },
+        {
+          "id": "449",
+          "name": "Ramdhenu",
+          "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_692/output/manifest.mpd",
+          "packed_by": "@y🇺vrᴀj824 (ᴛᴇlegram)"
+        },
+        {
+          "id": "991",
+          "name": "DD Meghalaya",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1819/output/manifest.mpd",
+          "packed_by": "@yu🇻raᴊ824 (telegrᴀm)"
+        },
+        {
+          "id": "1299",
+          "name": "Engage - Star Cam",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2077/output/manifest.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (ᴛᴇleɢrᴀm)"
+        },
+        {
+          "id": "1285",
+          "name": "Sana TV",
+          "manifest_url": "https://bpprod75catchup.akamaized.net/dash/sanatv.mpd",
+          "packed_by": "@y🇺🇻rᴀj824 (tᴇlᴇɢrᴀm)"
+        },
+        {
+          "id": "1284",
+          "name": "Sana Plus TV",
+          "manifest_url": "https://bpprod74catchup.akamaized.net/dash/sanaplus.mpd",
+          "packed_by": "@yuvraᴊ824 (ᴛᴇlᴇgram)"
+        },
+        {
+          "id": "1277",
+          "name": "Nav Tej TV",
+          "manifest_url": "https://bpprod72catchup.akamaized.net/navtejtv/navtejtv/index.mpd",
+          "packed_by": "@y🇺vraj824 (ᴛelᴇɢrᴀm)"
+        },
+        {
+          "id": "1281",
+          "name": "Samachar 24 News",
+          "manifest_url": "https://bpprod73catchup.akamaized.net/samachar24/samachar24/index.mpd",
+          "packed_by": "@yu🇻raj824 (tᴇlᴇɢrᴀm)"
+        },
+        {
+          "id": "1278",
+          "name": "Prime TV",
+          "manifest_url": "https://bpprod71catchup.akamaized.net/primetv/primetv/index.mpd",
+          "packed_by": "@y🇺🇻raᴊ824 (tᴇleɢrᴀm)"
+        },
+        {
+          "id": "849",
+          "name": "Kashi Vishwanath Temple, Varanasi",
+          "manifest_url": "https://bpprod45catchup.akamaized.net/out/i/1555.mpd",
+          "packed_by": "@y🇺vrᴀj824 (ᴛelegrᴀm)"
+        },
+        {
+          "id": "790",
+          "name": "Ek Onkar",
+          "manifest_url": "https://bpprod45catchup.akamaized.net/out/i/1357.mpd",
+          "packed_by": "@y🇺vraᴊ824 (teleɢram)"
+        },
+        {
+          "id": "791",
+          "name": "Fateh TV",
+          "manifest_url": "https://bpprod45catchup.akamaized.net/out/i/1147.mpd",
+          "packed_by": "@y🇺vraj824 (tᴇlᴇgram)"
+        },
+        {
+          "id": "912",
+          "name": "Haryana Beats",
+          "manifest_url": "https://bpprod45catchup.akamaized.net/out/i/1201.mpd",
+          "packed_by": "@yu🇻raᴊ824 (tᴇlᴇgrᴀm)"
+        },
+        {
+          "id": "807",
+          "name": "In Goa 24x7",
+          "manifest_url": "https://bpprod45catchup.akamaized.net/out/i/1175.mpd",
+          "packed_by": "@y🇺vraj824 (ᴛelᴇgrᴀm)"
+        },
+        {
+          "id": "782",
+          "name": "Namma TV",
+          "manifest_url": "https://bpprod45catchup.akamaized.net/out/i/1205.mpd",
+          "packed_by": "@yuvrᴀj824 (ᴛeleɢram)"
+        },
+        {
+          "id": "781",
+          "name": "Prudent",
+          "manifest_url": "https://bpprod21catchup.akamaized.net/prudentm.m3u8",
+          "packed_by": "@yu🇻rᴀᴊ824 (tᴇlᴇgrᴀm)"
+        },
+        {
+          "id": "819",
+          "name": "RDX Goa",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist_dvr.m3u8",
+          "packed_by": "@y🇺🇻raᴊ824 (ᴛelᴇɢrᴀm)"
+        },
+        {
+          "id": "1290",
+          "name": "TVRI World",
+          "manifest_url": "https://bpprod45catchup.akamaized.net/out/i/1537.mpd",
+          "packed_by": "@yu🇻rᴀᴊ824 (telᴇɢrᴀm)"
+        },
+        {
+          "id": "865",
+          "name": "Bangla Bhakti",
+          "manifest_url": "https://bpprod45catchup.akamaized.net/out/i/1211.mpd",
+          "packed_by": "@yu🇻raᴊ824 (telegram)"
+        },
+        {
+          "id": "866",
+          "name": "Tara News",
+          "manifest_url": "https://bpprod45catchup.akamaized.net/out/i/1231.mpd",
+          "packed_by": "@yuvraj824 (tᴇleɢram)"
+        },
+        {
+          "id": "887",
+          "name": "Garv Gurbani",
+          "manifest_url": "https://bpprod45catchup.akamaized.net/out/i/1155.mpd",
+          "packed_by": "@y🇺vrᴀj824 (teleɢram)"
+        },
+        {
+          "id": "883",
+          "name": "Swar Shree",
+          "manifest_url": "https://bpprod45catchup.akamaized.net/out/i/1460.mpd",
+          "packed_by": "@yuvraj824 (tᴇlᴇɢrᴀm)"
+        },
+        {
+          "id": "893",
+          "name": "Valam TV",
+          "manifest_url": "https://bpprod45catchup.akamaized.net/out/i/1378.mpd",
+          "packed_by": "@yu🇻raj824 (tᴇlegram)"
+        },
+        {
+          "id": "910",
+          "name": "C News Bharat",
+          "manifest_url": "https://bpprod18catchup.akamaized.net/cnews/cnews/index.m3u8",
+          "packed_by": "@y🇺🇻raᴊ824 (tᴇleɢrᴀm)"
+        },
+        {
+          "id": "1254",
+          "name": "National News Live",
+          "manifest_url": "https://bpprod65catchup.akamaized.net/NationalNewsLive/myStream/manifest.mpd",
+          "packed_by": "@y🇺vraᴊ824 (telegram)"
+        },
+        {
+          "id": "1256",
+          "name": "Oye Music",
+          "manifest_url": "https://bpprod67catchup.akamaized.net/OyeMusic/myStream/manifest.mpd",
+          "packed_by": "@yuvrᴀj824 (ᴛᴇlᴇɢram)"
+        },
+        {
+          "id": "1257",
+          "name": "Sangam TV",
+          "manifest_url": "https://bpprod70catchup.akamaized.net/stream/dash/sangam.mpd",
+          "packed_by": "@yu🇻rᴀj824 (tᴇlᴇɢram)"
+        },
+        {
+          "id": "1255",
+          "name": "Update India",
+          "manifest_url": "https://bpprod66catchup.akamaized.net/UpdateIndia/myStream/manifest.mpd",
+          "packed_by": "@yuvrᴀᴊ824 (ᴛᴇlᴇgrᴀm)"
+        },
+        {
+          "id": "841",
+          "name": "Mahakaleshwar Temple, Ujjain",
+          "manifest_url": "https://bpprod45catchup.akamaized.net/out/i/1299.mpd",
+          "packed_by": "@yu🇻rᴀᴊ824 (ᴛelᴇɢrᴀm)"
+        },
+        {
+          "id": "1336",
+          "name": "Shresthbharat TV",
+          "manifest_url": "https://bpprod76catchup.akamaized.net/shresthbharat/shresthbharat/index.mpd",
+          "packed_by": "@y🇺🇻raᴊ824 (tᴇleɢrᴀm)"
+        },
+        {
+          "id": "931",
+          "name": "Green Chillies TV",
+          "manifest_url": "https://bpprod5catchup.akamaized.net/live/GreenChillies_Playout-Main/playlist.m3u8",
+          "packed_by": "@yuvrᴀj824 (ᴛelᴇgrᴀm)"
+        },
+        {
+          "id": "1338",
+          "name": "TV 45 News",
+          "manifest_url": "https://bpprod82catchup.akamaized.net/bnews24/bnews24/index.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (tᴇlᴇgrᴀm)"
+        },
+        {
+          "id": "892",
+          "name": "Samara News",
+          "manifest_url": "https://bpprod45catchup.akamaized.net/out/i/767.mpd",
+          "packed_by": "@y🇺🇻raj824 (tᴇlegrᴀm)"
+        },
+        {
+          "id": "1335",
+          "name": "Shiksha TV",
+          "manifest_url": "https://bpprod83catchup.akamaized.net/shikshatvhd/shikshatvhd/playlist.m3u8",
+          "packed_by": "@yuvraᴊ824 (telegrᴀm)"
+        },
+        {
+          "id": "1332",
+          "name": "AB STAR News",
+          "manifest_url": "https://bpprod79catchup.akamaized.net/abnews/abnews/index.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (telᴇɢram)"
+        },
+        {
+          "id": "1334",
+          "name": "KBC News",
+          "manifest_url": "https://bpprod81catchup.akamaized.net/kbcnews/kbcnews/index.mpd",
+          "packed_by": "@y🇺vraj824 (telᴇɢrᴀm)"
+        },
+        {
+          "id": "1333",
+          "name": "ABC News",
+          "manifest_url": "https://bpprod80catchup.akamaized.net/abcnews/abcnews/index.mpd",
+          "packed_by": "@yu🇻rᴀᴊ824 (ᴛᴇlᴇɢrᴀm)"
+        },
+        {
+          "id": "947",
+          "name": "Live Patna Sahib Patna",
+          "manifest_url": "https://bpprod45catchup.akamaized.net/out/i/496.mpd",
+          "packed_by": "@yuvraᴊ824 (tᴇleɢram)"
+        },
+        {
+          "id": "1337",
+          "name": "Sristi TV",
+          "manifest_url": "https://bpprod78catchup.akamaized.net/sristitvplus/sristitvplus/index.mpd",
+          "packed_by": "@yu🇻rᴀᴊ824 (ᴛelᴇɢrᴀm)"
+        },
+        {
+          "id": "949",
+          "name": "Live Sri Naga Sai Mandir Coimbatore",
+          "manifest_url": "https://bpprod45catchup.akamaized.net/out/i/1347.mpd",
+          "packed_by": "@yu🇻rᴀj824 (ᴛeleɢrᴀm)"
+        },
+        {
+          "id": "960",
+          "name": "Atmadarshan",
+          "manifest_url": "https://bpprod27catchup.akamaized.net/atmadarshan/atmadarshan/index.m3u8",
+          "packed_by": "@yuvrᴀᴊ824 (ᴛelegrᴀm)"
+        },
+        {
+          "id": "961",
+          "name": "Lakshya TV",
+          "manifest_url": "https://bpprod45catchup.akamaized.net/out/i/1316.mpd",
+          "packed_by": "@y🇺🇻raᴊ824 (telᴇgram)"
+        },
+        {
+          "id": "1339",
+          "name": "TNP News",
+          "manifest_url": "https://bpprod77catchup.akamaized.net/tnpnews/tnpnews/index.mpd",
+          "packed_by": "@yuvrᴀj824 (ᴛᴇlegram)"
+        },
+        {
+          "id": "962",
+          "name": "ANN News",
+          "manifest_url": "https://bpprod25catchup.akamaized.net/annnews/annnews/index.m3u8",
+          "packed_by": "@y🇺vraj824 (telᴇgrᴀm)"
+        },
+        {
+          "id": "1002",
+          "name": "Saileela TV",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/saileelatv/saileelatv/index.m3u8",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (ᴛᴇleɢrᴀm)"
+        },
+        {
+          "id": "1004",
+          "name": "Shri Ganga Aarti, Varanasi",
+          "manifest_url": "https://bpprod45catchup.akamaized.net/out/i/905.mpd",
+          "packed_by": "@yuvraj824 (ᴛelᴇɢrᴀm)"
+        },
+        {
+          "id": "1008",
+          "name": "Shri ISKCON Girgaon, Mumbai",
+          "manifest_url": "https://bpprod45catchup.akamaized.net/out/i/910.mpd",
+          "packed_by": "@yu🇻raᴊ824 (tᴇlegrᴀm)"
+        },
+        {
+          "id": "1007",
+          "name": "Shri Ashtavinayak Mahaganpati, Ranjangaon",
+          "manifest_url": "https://bpprod45catchup.akamaized.net/out/i/915.mpd",
+          "packed_by": "@yu🇻raᴊ824 (telᴇɢram)"
+        },
+        {
+          "id": "1006",
+          "name": "Shri Mahalaxmi Temple, Mumbai",
+          "manifest_url": "https://bpprod45catchup.akamaized.net/out/i/920.mpd",
+          "packed_by": "@yu🇻rᴀj824 (tᴇlᴇgrᴀm)"
+        },
+        {
+          "id": "1005",
+          "name": "Shri Babulnaath Temple, Mumbai",
+          "manifest_url": "https://bpprod45catchup.akamaized.net/out/i/1468.mpd",
+          "packed_by": "@y🇺vrᴀj824 (ᴛelᴇgram)"
+        },
+        {
+          "id": "1023",
+          "name": "Daiji World TV",
+          "manifest_url": "https://bpprod45catchup.akamaized.net/out/i/1183.mpd",
+          "packed_by": "@yuvraᴊ824 (ᴛeleɢrᴀm)"
+        },
+        {
+          "id": "1018",
+          "name": "Real News Kerala",
+          "manifest_url": "https://bpprod7catchup.akamaized.net/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8",
+          "packed_by": "@yuvraᴊ824 (ᴛᴇlᴇgrᴀm)"
+        },
+        {
+          "id": "1019",
+          "name": "7x Music",
+          "manifest_url": "https://bpprod45catchup.akamaized.net/out/i/1331.mpd",
+          "packed_by": "@yu🇻raj824 (ᴛᴇleɢram)"
+        },
+        {
+          "id": "1040",
+          "name": "Jansetu",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/hls10/jansetunews/index.m3u8",
+          "packed_by": "@y🇺vraj824 (tᴇlegrᴀm)"
+        },
+        {
+          "id": "1042",
+          "name": "Bless TV",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/blesstv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
+          "packed_by": "@yu🇻raᴊ824 (ᴛᴇlᴇɢram)"
+        },
+        {
+          "id": "1043",
+          "name": "Nakshatra Digital",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/nakshatradigital/nakshatradigital/index.m3u8",
+          "packed_by": "@yu🇻rᴀj824 (telᴇɢrᴀm)"
+        },
+        {
+          "id": "1044",
+          "name": "Global India",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/globalindiatv/globalindiatv/index.m3u8",
+          "packed_by": "@y🇺🇻raᴊ824 (ᴛᴇleɢrᴀm)"
+        },
+        {
+          "id": "1060",
+          "name": "Live Punjabi",
+          "manifest_url": "https://bpprod15catchup.akamaized.net/livepunjabi/livepunjabi/index.m3u8",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (telegram)"
+        },
+        {
+          "id": "1058",
+          "name": "Aaj Ki Khabar",
+          "manifest_url": "https://bpprod14catchup.akamaized.net/aajkikhabar/aajkikhabar/index.m3u8",
+          "packed_by": "@yuvraj824 (teleɢrᴀm)"
+        },
+        {
+          "id": "1059",
+          "name": "Indian News",
+          "manifest_url": "https://bpprod12catchup.akamaized.net/indiannews/index.m3u8",
+          "packed_by": "@y🇺🇻rᴀj824 (ᴛeleɢram)"
+        },
+        {
+          "id": "1070",
+          "name": "MEDIA 9",
+          "manifest_url": "https://bpprod45catchup.akamaized.net/out/i/1445.mpd",
+          "packed_by": "@yu🇻rᴀj824 (ᴛᴇlᴇɢrᴀm)"
+        },
+        {
+          "id": "1079",
+          "name": "TTN 24",
+          "manifest_url": "https://bpprod45catchup.akamaized.net/out/i/1327.mpd",
+          "packed_by": "@y🇺vrᴀᴊ824 (telᴇgrᴀm)"
+        },
+        {
+          "id": "1080",
+          "name": "U Bangla TV",
+          "manifest_url": "https://bpprod1catchup.akamaized.net/hls/ubangla.m3u8",
+          "packed_by": "@yuvrᴀᴊ824 (telegrᴀm)"
+        },
+        {
+          "id": "1171",
+          "name": "Shree Ichchhapuran Balaji Mandir",
+          "manifest_url": "https://bpprod45catchup.akamaized.net/out/i/1412.mpd",
+          "packed_by": "@y🇺vrᴀᴊ824 (tᴇleɢram)"
+        },
+        {
+          "id": "1196",
+          "name": "Ekamra Bharat Odia",
+          "manifest_url": "https://bpprod31catchup.akamaized.net/bharat/bharat/index.mpd",
+          "packed_by": "@y🇺vraᴊ824 (tᴇlᴇgrᴀm)"
+        },
+        {
+          "id": "1197",
+          "name": "Ekamra Nilachakra",
+          "manifest_url": "https://bpprod33catchup.akamaized.net/nilachakra/nilachakra/index.mpd",
+          "packed_by": "@yu🇻raj824 (ᴛelegrᴀm)"
+        },
+        {
+          "id": "1198",
+          "name": "Ekamra Cynema",
+          "manifest_url": "https://bpprod35catchup.akamaized.net/cynema/cynema/index.mpd",
+          "packed_by": "@y🇺vrᴀj824 (telᴇɢrᴀm)"
+        },
+        {
+          "id": "1199",
+          "name": "Ekamra  Music",
+          "manifest_url": "https://bpprod37catchup.akamaized.net/musiq/musiq/index.mpd",
+          "packed_by": "@yu🇻raᴊ824 (ᴛelegrᴀm)"
+        },
+        {
+          "id": "1200",
+          "name": "Ekamra Jatra",
+          "manifest_url": "https://bpprod39catchup.akamaized.net/jatra/jatra/index.mpd",
+          "packed_by": "@yuvrᴀᴊ824 (telᴇɢram)"
+        },
+        {
+          "id": "1201",
+          "name": "Ekamra Paramatma",
+          "manifest_url": "https://bpprod41catchup.akamaized.net/paramatma/paramatma/index.mpd",
+          "packed_by": "@y🇺vraj824 (tᴇlegram)"
+        },
+        {
+          "id": "1202",
+          "name": "Ekamra One paschima",
+          "manifest_url": "https://bpprod43catchup.akamaized.net/onepaschima/onepaschima/index.mpd",
+          "packed_by": "@y🇺🇻rᴀj824 (tᴇlegram)"
+        },
+        {
+          "id": "1203",
+          "name": "India 24x7",
+          "manifest_url": "https://bpprod45catchup.akamaized.net/india24x7/india24x7/index.mpd",
+          "packed_by": "@yuvraj824 (ᴛelᴇɢrᴀm)"
+        },
+        {
+          "id": "1204",
+          "name": "City Music",
+          "manifest_url": "https://bpprod47catchup.akamaized.net/citymusic/citymusic/index.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (ᴛᴇleɢrᴀm)"
+        },
+        {
+          "id": "1205",
+          "name": "Omm",
+          "manifest_url": "https://bpprod49catchup.akamaized.net/omm/omm/index.mpd",
+          "packed_by": "@y🇺🇻rᴀᴊ824 (ᴛeleɢrᴀm)"
+        },
+        {
+          "id": "1206",
+          "name": "Ekamra Baiscope",
+          "manifest_url": "https://bpprod51catchup.akamaized.net/baiscope/baiscope/index.mpd",
+          "packed_by": "@yuvrᴀᴊ824 (ᴛelᴇgram)"
+        },
+        {
+          "id": "1207",
+          "name": "Ekamra Manoranjan",
+          "manifest_url": "https://bpprod53catchup.akamaized.net/manoranjan/manoranjan/index.mpd",
+          "packed_by": "@y🇺vraj824 (telegrᴀm)"
+        },
+        {
+          "id": "1208",
+          "name": "News 8 odia",
+          "manifest_url": "https://bpprod55catchup.akamaized.net/halchal/halchal/index.mpd",
+          "packed_by": "@yu🇻rᴀj824 (teleɢram)"
+        },
+        {
+          "id": "1209",
+          "name": "Ekamra snews",
+          "manifest_url": "https://bpprod57catchup.akamaized.net/snews/snews/index.mpd",
+          "packed_by": "@y🇺vraj824 (ᴛeleɢrᴀm)"
+        },
+        {
+          "id": "1245",
+          "name": "National Today 24x7",
+          "manifest_url": "https://bpprod59catchup.akamaized.net/cmaf/nationaltoday24/index.mpd",
+          "packed_by": "@y🇺🇻rᴀj824 (tᴇlegram)"
+        },
+        {
+          "id": "1247",
+          "name": "35 MM",
+          "manifest_url": "https://bpprod63catchup.akamaized.net/6/35mm/index.mpd",
+          "packed_by": "@y🇺vraᴊ824 (tᴇlᴇgram)"
+        },
+        {
+          "id": "1242",
+          "name": "In24 News",
+          "manifest_url": "https://bpprod62catchup.akamaized.net/in24news/in24news/index.mpd",
+          "packed_by": "@y🇺🇻rᴀj824 (tᴇleɢram)"
+        },
+        {
+          "id": "1243",
+          "name": "Marudharhind TV",
+          "manifest_url": "https://bpprod61catchup.akamaized.net/marudharhind24/marudharhind24/index.mpd",
+          "packed_by": "@y🇺🇻raj824 (ᴛᴇlegrᴀm)"
+        },
+        {
+          "id": "1246",
+          "name": "Vande Bharat News",
+          "manifest_url": "https://bpprod60catchup.akamaized.net/vandebharat/vandebharat/index.mpd",
+          "packed_by": "@yuvraᴊ824 (tᴇlᴇɢrᴀm)"
+        },
+        {
+          "id": "1252",
+          "name": "Haryana Buzz",
+          "manifest_url": "https://bpprod68catchup.akamaized.net/HaryanaBuzz/myStream/manifest.mpd",
+          "packed_by": "@y🇺vrᴀᴊ824 (telegram)"
+        },
+        {
+          "id": "1253",
+          "name": "Jeewan Bhakti",
+          "manifest_url": "https://bpprod69catchup.akamaized.net/JeewanBhakti/myStream/manifest.mpd",
+          "packed_by": "@yu🇻raj824 (telᴇgram)"
+        },
+        {
+          "id": "22",
+          "name": "News World India",
+          "manifest_url": "https://bpprod31catchup.akamaized.net/out/i/57073.mpd",
+          "packed_by": "@y🇺🇻rᴀj824 (ᴛᴇlᴇgram)"
+        }
+      ]
+    }
+  }
